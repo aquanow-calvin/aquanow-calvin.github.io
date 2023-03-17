@@ -101,7 +101,6 @@ hangul,romanji,english,severity,type
 복사,pok sa,copy,orange,noun
 강당,kang tang,auditorium,orange,noun
 교과서,kyo kwa so,textbook,orange,noun
-가다,ka ta,to go,red,verb
 고향,ko hyang,hometown,red,noun
 싶다,sip ta,to want,red,verb
 산,san,mountain,red,noun
@@ -197,7 +196,6 @@ hangul,romanji,english,severity,type
 자주,cha chu,often,green,time
 가다,ka ta,to go,red,verb
 왜,wae,why,red,particle
-그럼,kee rom,then,red,particle
 근처,keen ccho,around,red,particle
 앞,ap,front,red,direction
 뒤,twi,behind,red,direction

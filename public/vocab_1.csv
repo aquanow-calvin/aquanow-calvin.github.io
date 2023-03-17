@@ -57,7 +57,7 @@ hangul,romanji,english,severity,type
 사무실,sa mu sil,office,red,noun
 우체국,u cche kuk,post office,red,noun
 체육관,cche yuk kwan,gym,red,noun
-편의점,*pyo ni chom,convenience store,red,noun
+편의점,pyo ni chom*,convenience store,red,noun
 학교,hak kyo,school,red,noun
 꽃,kot,flower,red,noun
 외교관,uwe kyo kwan,diplomat,green,noun
@@ -97,7 +97,7 @@ hangul,romanji,english,severity,type
 수영장,su yong chang,swimming pool,red,noun
 수영(을)하다,su yong,swimming,red,verb
 정문,chong mun,main door,red,noun
-_어학당,(han kuk) o hak tang,institute,red,noun
+(_어)학당,hak tang,institute,red,noun
 복사,pok sa,copy,orange,noun
 강당,kang tang,auditorium,orange,noun
 교과서,kyo kwa so,textbook,orange,noun

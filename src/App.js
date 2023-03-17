@@ -241,7 +241,7 @@ class App extends Component {
           <tbody>
             <tr>
               <td>
-                <select className="drop" style={{"width": "150px"}} id="types" onChange={this.selectType}>
+                <select className="drop" style={{"width": "180px"}} id="types" onChange={this.selectType}>
                   {
                     ([undefined]).concat(Array.from(new Set(this.state.vocabulary.map(x => x.type)))).map((type, i) => {
                       return (

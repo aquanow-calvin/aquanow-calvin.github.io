@@ -68,7 +68,7 @@ class App extends Component {
   
   selectWord(event) {
     const selectedIndex = event.target.options.selectedIndex;
-    const current = event.target.options[selectedIndex].getAttribute('data-key');
+    const current = parseInt(event.target.options[selectedIndex].getAttribute('data-key'), 10);
     
     const {
       hangul,

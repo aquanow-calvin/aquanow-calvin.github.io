@@ -1,0 +1,144 @@
+hangul,romanji,english,severity,type
+학생,hak saeng,student,red,noun
+기자,ki cha,reporter,red,noun
+의사,eei sa,doctor,red,noun
+가수,ka su,singer,red,noun
+배우,pae u,actor,red,noun
+선생님,song saeng nim,teacher,red,noun
+회사원,hoi sa won,office worker,red,noun
+은행원,een haeng won,bank worker,red,noun
+간호사,kan ho sa,nurse,red,noun
+요리사,yo ri sa,chef,red,noun
+문,mun,door,red,noun
+창문,cchaeng mun,window,red,noun
+책,cchaek,book,red,noun
+공책,kong cchaek,notebook,red,noun
+책상,cchaek saeng,desk/table,red,noun
+의자,eei cha,chair,red,noun
+칠판,chil pan,blackboard,red,noun
+지도,chi to,map,red,noun
+달력,tal ryok,calendar,red,noun
+시계,si kye,clock,red,noun
+거울,ko eel,mirror,red,noun
+옷걸이,ot kol i,coat hanger,red,noun
+컴퓨터,kkom pyu tto,computer,red,noun
+텔레비전,ttel re pi chon,television,red,noun
+필통,pir ttong,pencil case,red,noun
+연필,yon pir,pencil,red,noun
+볼펜,pol pen,(ball) pen,red,noun
+지우개,chi u ke,eraser,red,noun
+돈,ton,money,red,noun
+지갑,chi kap,wallet,red,noun
+가방,ka pang,bag,red,noun
+휴지,hyu chi,tissue,red,noun
+학생증,hak saeng cheeng,id card,red,noun
+휴대전화,hyu tae chon hwa,phone,red,noun
+국적,kuk chok,nationality,green,noun
+직업,chik op,job,green,noun
+교수님,kyo su nim,professor,orange,noun
+경찰,kyong cchal,police,orange,noun
+물통,mul ttong,water bottle,green,noun
+인형,in hyong,doll,orange,noun
+안경,an kyong,glasses,green,noun
+교실,kyo sil,classroom,red,noun
+사진,sa chin,photo,green,noun
+축구 선수,cchuk ku son su,soccer player,green,noun
+사탕,sa ttong,candy,orange,noun
+그림,kee rim,painting,orange,noun
+여동생,yo tong saeng,younger sister,orange,noun
+신문,sin mun,newspaper,orange,noun
+잡지,chap chi,magazine,orange,noun
+방,pang,room,red,noun
+도서관,to so kwan,library,red,noun
+학생회관,hak saeng hwe kwan,student hall,red,noun
+서점,so chom,bookstore,red,noun
+식당,sik tang,restaurant,red,noun
+기숙사,ki suk sa,dormitory,red,noun
+사무실,sa mu sil,office,red,noun
+우체국,u cche kuk,post office,red,noun
+체육관,cche yuk kwan,gym,red,noun
+편의점,*pyo ni chom,convenience store,red,noun
+학교,hak kyo,school,red,noun
+꽃,kot,flower,red,noun
+외교관,uwe kyo kwan,diplomat,green,noun
+친구,chin ku,friend,red,noun
+날씨,nal shi,weather,red,noun
+나라,nal la,country,red,noun
+보다,po ta,to watch,red,verb
+듣다,teet ta,to listen,red,verb
+읽다,irk ta,to read,red,verb
+쓰다,szee ta,to write,red,verb
+사다,sa ta,to buy,red,verb
+입다,ip ta,to wear,red,verb
+먹다,mok ta,to eat,red,verb
+마시다,ma si ta,to drink,red,verb
+만나다,man na ta,to meet,red,verb
+배우다,pe u ta, to learn,red,verb
+가르치다,ka ree chi ta,to teach,red,verb
+기다리다,ki ta ri ta,to wait,red,verb
+영화,yong hwa,movie,orange,noun
+물,mul,water,red,noun
+빵,bang,bread,red,noun
+커피,kko pi,coffee,red,noun
+하다,ha ta,to do,red,noun
+음악,eem ak,music,orange,noun
+꽃집,kot chip,florist (flower house),orange,noun
+집,chip,house,red,noun
+노래방,no rae pang,karaoke (song room),red,noun
+찜질방,jim chil pang,sauna,red,noun
+백화점,paek hwa chom,department store,orange,noun
+빵집,bang chip,bakery (bread house),orange,noun
+피시방,pi si pang,pc bang,red,noun
+문구점,mun ku chom,stationery store,orange,noun
+과자,kwa sa,snack,red,noun
+침대,chim tae,bed,orange,noun
+냉장고,naeng chang ko,fridge,orange,noun
+병원,pyong won,hospital,red,noun
+수영장,su yong chang,swimming pool,red,noun
+정문,chong mun,main door,red,noun
+_어학당,(han kuk) o hak tang,institute,red,noun
+복사,pok sa,copy,orange,noun
+강당,kang tang,auditorium,orange,noun
+교과서,kyo kwa so,textbook,orange,noun
+가다,ka ta,to go,red,verb
+고향,ko hyong,hometown,red,noun
+싶다,sip ta,to want,red,verb
+산,san,mountain,red,noun
+강,kang,river,red,noun
+호수,ho su,lake,red,noun
+대양,pa ta,ocean,red,noun
+가족,ka chok,family,red,noun
+음식,eem sik,food,orange,noun
+오다,o ta,to come,red,verb
+쉬다,swi ta,to rest,red,verb
+자다,cha ta, to sleep,red,verb
+점수,chom su,score,orange,noun
+겨울,kyo ul,winter,green,noun
+차갑다,ccha kap ta,cold (obj),green,adjective
+뜨겁다,ttee kop ta,hot (obj),green,adjective
+넓다,nol ta,wide,green,adjective
+좁다,cop ta,narrow,green,adjective
+가게,ka ke,store,red,noun
+조금,chom keem,little (not very),orange,adjective
+옷장,ot chang,wardrobe,orange,noun
+책장,cchaek chang,bookshelf,orange,noun
+신발장,sin pal chang,shoe cabinet,orange,noun
+샤워,sya wo,shower,orange,noun
+체력 단련실,cche ryok tan ryon sil,fitness room,orange,noun
+운동장,un tong chang,stadium,orange,noun
+농구장,nong ku chang,basketball court,orange,noun
+축구장,cchu ku chang,scocer court,orange,noun
+시원한다,si won ha ta,cool,green,adjective
+복잡한다,pok chap han ta,complicated,red,adjective
+아름답다,a reem tap ta,beautiful,red,adjective
+예쁘다,yo bee ta,pretty,red,adjective
+크다,kkee ta,big,red,adjective
+작다,chak ta,small,red,adjective
+많다,man ta,many,red,adjective
+적다,chok ta,little,red,adjective
+덥다,top ta,hot,red,adjective
+춥다,cchup ta,cold,red,adjective
+좋다,cho ta,good,red,adjective
+나쁘다,na bee ta,bad,red,adjective
+조용하다,cho yong ha ta,quiet,red,adjective
+시끄럽다,si kee rop ta,noisy,red,adjective

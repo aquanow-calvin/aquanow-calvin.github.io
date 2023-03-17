@@ -10,7 +10,6 @@ on:
 
 jobs:
   deploy:
-    needs: build-and-test
     name: "Deploy"
     runs-on: ubuntu-latest
 

@@ -1,5 +1,5 @@
+/* eslint-disable array-callback-return */
 import React, { Component } from "react";
-import { NotificationContainer, NotificationManager } from "react-notifications";
 import {
   vocabulary as get_vocabulary,
 } from "./FileManager";
@@ -139,7 +139,7 @@ class App extends Component {
     const roman = document.getElementsByClassName("romanji");
     for (var i = 0; i < roman.length; i++) { this.state.show ? roman[i].style.color = 'white' : roman[i].style.color = 'black' };
     const eng = document.getElementsByClassName("english");
-    for (var i = 0; i < eng.length; i++) { this.state.show ? eng[i].style.color = 'white' : eng[i].style.color = 'black' };
+    for (var j = 0; j < eng.length; j++) { this.state.show ? eng[j].style.color = 'white' : eng[j].style.color = 'black' };
   }
   
   random() {

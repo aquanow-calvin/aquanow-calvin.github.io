@@ -29,6 +29,8 @@ jobs:
         run: |
           npm install -g npm@^7
           npm ci
+        env:
+          NODE_AUTH_TOKEN: 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
 
       - name: Deploy
         run: |

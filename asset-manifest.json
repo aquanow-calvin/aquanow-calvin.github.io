@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hangul-practicer/static/css/main.6c0c9d4b.css",
+    "main.js": "/hangul-practicer/static/js/main.b4527cd2.js",
+    "static/js/787.59830f24.chunk.js": "/hangul-practicer/static/js/787.59830f24.chunk.js",
+    "static/media/notification.svg?s3g3t9": "/hangul-practicer/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/hangul-practicer/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/hangul-practicer/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/hangul-practicer/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/hangul-practicer/index.html",
+    "main.6c0c9d4b.css.map": "/hangul-practicer/static/css/main.6c0c9d4b.css.map",
+    "main.b4527cd2.js.map": "/hangul-practicer/static/js/main.b4527cd2.js.map",
+    "787.59830f24.chunk.js.map": "/hangul-practicer/static/js/787.59830f24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c0c9d4b.css",
+    "static/js/main.b4527cd2.js"
+  ]
+}

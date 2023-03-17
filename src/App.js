@@ -114,7 +114,7 @@ class App extends Component {
       if (this.state.orange && ["orange"].includes(x.severity)) return x;
       if (this.state.green && ["green"].includes(x.severity)) return x;
     });
-    vocabulary.sort((a, b) => { if (a.romanji > b.romanji) { return -1 }});
+    vocabulary.sort((a, b) => { if (a.romanji < b.romanji) { return -1 }});
     
     const {
       hangul,

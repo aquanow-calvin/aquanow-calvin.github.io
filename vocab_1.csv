@@ -15,10 +15,10 @@ hangul,romanji,english,severity,type
 공책,kong cchaek,notebook,red,noun
 책상,cchaek saeng,desk/table,red,noun
 의자,eei cha,chair,red,noun
-칠판,chil pan,blackboard,red,noun
+칠판,chil ppan,blackboard,red,noun
 지도,chi to,map,red,noun
 달력,tal ryok,calendar,red,noun
-시계,si kye,clock,red,noun
+시계,shi kye,clock,red,noun
 거울,ko eel,mirror,red,noun
 옷걸이,ot kol i,coat hanger,red,noun
 컴퓨터,kkom pyu tto,computer,red,noun
@@ -40,28 +40,28 @@ hangul,romanji,english,severity,type
 물통,mul ttong,water bottle,green,noun
 인형,in hyong,doll,orange,noun
 안경,an kyong,glasses,green,noun
-교실,kyo sil,classroom,red,noun (place)
+교실,kyo shil,classroom,red,noun (place)
 사진,sa chin,photo,green,noun
 축구 선수,cchuk ku son su,soccer player,green,noun
 사탕,sa ttong,candy,orange,noun
 그림,kee rim,painting,orange,noun
 여동생,yo tong saeng,younger sister,orange,noun
-신문,sin mun,newspaper,orange,noun
+신문,shin mun,newspaper,orange,noun
 잡지,chap chi,magazine,orange,noun
 방,pang,room,red,noun
 도서관,to so kwan,library,red,noun (place)
 학생회관,hak saeng hwe kwan,student hall,red,noun (place)
 서점,so chom,bookstore,red,noun (place)
-식당,sik tang,restaurant,red,noun (place)
+식당,shik tang,restaurant,red,noun (place)
 기숙사,ki suk sa,dormitory,red,noun (place)
-사무실,sa mu sil,office,red,noun (place)
+사무실,sa mu shil,office,red,noun (place)
 우체국,u cche kuk,post office,red,noun (place)
 체육관,cche yuk kwan,gym,red,noun (place)
 편의점,pyo ni chom*,convenience store,red,noun (place)
 학교,hak kyo,school,red,noun (place)
 꽃,kot,flower,red,noun
 외교관,uwe kyo kwan,diplomat,green,noun
-친구,chin ku,friend,red,noun
+친구,cchin ku,friend,red,noun
 날씨,nal shi,weather,red,noun
 나라,nal la,country,red,noun
 보다,po ta,to watch,red,verb
@@ -71,7 +71,7 @@ hangul,romanji,english,severity,type
 사다,sa ta,to buy,red,verb
 입다,ip ta,to wear,red,verb
 먹다,mok ta,to eat,red,verb
-마시다,ma si ta,to drink,red,verb
+마시다,ma shi ta,to drink,red,verb
 만나다,man na ta,to meet,red,verb
 배우다,pe u ta, to learn,red,verb
 가르치다,ka ree chi ta,to teach,red,verb
@@ -88,7 +88,7 @@ hangul,romanji,english,severity,type
 찜질방,jim chil pang,sauna,red,noun (place)
 백화점,paek hwa chom,department store,orange,noun (place)
 빵집,bang chip,bakery (bread house),orange,noun (place)
-피시방,pi si pang,pc bang,red,noun (place)
+피시방,pi shi pang,pc bang,red,noun (place)
 문구점,mun ku chom,stationery store,red,noun (place)
 과자,kwa sa,snack,red,noun
 침대,chim tae,bed,orange,noun
@@ -102,20 +102,20 @@ hangul,romanji,english,severity,type
 강당,kang tang,auditorium,orange,noun (place)
 교과서,kyo kwa so,textbook,orange,noun
 고향,ko hyang,hometown,red,noun (place)
-싶다,sip ta,to want,red,verb
+싶다,ship ta,to want,red,verb
 산,san,mountain,red,noun (place)
 강,kang,river,red,noun (place)
 호수,ho su,lake,red,noun (place)
 바다,pa ta,ocean,red,noun (place)
 가족,ka chok,family,red,noun
-음식,eem sik,food,orange,noun
+음식,eem shik,food,orange,noun
 오다,o ta,to come,red,verb
 쉬다,swi ta,to rest,red,verb
 자다,cha ta, to sleep,red,verb
 점수,chom su,score,orange,noun
 겨울,kyo ul,winter,green,noun
 차갑다,ccha kap ta,cold (obj),green,adjective
-뜨겁다,ttee kop ta,hot (obj),green,adjective
+뜨겁다,gee kop ta,hot (obj),green,adjective
 넓다,nol ta,wide,orange,adjective
 좁다,cop ta,narrow,green,adjective
 가게,ka ke,store,red,noun (place)
@@ -123,9 +123,9 @@ hangul,romanji,english,severity,type
 아주,a chu,very,red,adverb
 옷장,ot chang,wardrobe,orange,noun
 책장,cchaek chang,bookshelf,orange,noun
-신발장,sin pal chang,shoe cabinet,orange,noun
+신발장,shin pal chang,shoe cabinet,orange,noun
 샤워,sya wo,shower,orange,noun
-체력 단련실,cche ryok tan ryon sil,fitness room,orange,noun (place)
+체력 단련실,cche ryok tan ryon shil,fitness room,orange,noun (place)
 운동장,un tong chang,stadium,orange,noun (place)
 농구장,nong ku chang,basketball court,orange,noun (place)
 축구장,cchu ku chang,soccer court,orange,noun (place)
@@ -138,7 +138,7 @@ hangul,romanji,english,severity,type
 좋다,cho ta,good,red,adjective
 나쁘다,na bee ta,bad,red,adjective
 조용하다,cho yong ha ta,quiet,red,adjective
-시끄럽다,si gee rop ta,noisy,red,adjective
+시끄럽다,shi gee rop ta,noisy,red,adjective
 영어,yong o,english,red,noun
 공항,kong hang,airport,green,noun (place)
 극장,keek chang,theater,orange,noun (place)
@@ -151,7 +151,7 @@ hangul,romanji,english,severity,type
 카페,kka ppe,cafe,red,noun (place)
 공부하다,kong pu ha ta,to study,red,noun
 숙제,su che,homework,red,noun
-시원하다,si won ha ta,cool,green,adjective
+시원하다,shi won ha ta,cool,green,adjective
 복잡하다,pok chap ha ta,complicated,red,adjective
 아름답다,a reem tap ta,beautiful,red,adjective
 예쁘다,yo bee ta,pretty,red,adjective
@@ -168,9 +168,9 @@ hangul,romanji,english,severity,type
 남자,nam cha,male,red,noun
 여자,yo cha,female,red,noun
 아침,a chim,morning,green,time
-점심,chom sim,lunch,green,noun
+점심,chom shim,lunch,green,noun
 저녁,cho nyok,dinner,green,noun
-식사,sik sa,meal,red,noun
+식사,shik sa,meal,red,noun
 운동,un tong,exercise,red,noun
 일,il,work,red,noun
 날마다,nal ma ta,everyday,red,time
@@ -209,3 +209,41 @@ hangul,romanji,english,severity,type
 맛있다,ma shit ta,delicious,red,adjective
 맛없다,mat op ta,not delicious,red,adjective
 태권도,tae kwon to,taekwondo,red,adjective
+몇시,myot shi,what (time),red,particle
+부터,since,red,time
+까지,until,red,time
+보통,po ttong,usually,red,time
+일,il,1,red,number
+이,i,2,red,number
+삼,sam,3,red,number
+사,sa,4,red,number
+오,o,5,red,number
+육,yuk,6,red,number
+칠,cchil,7,red,number
+팔,ppal,8,red,number
+구,ku,9,red,number
+십,ship,10,red,number
+하(나),ha (na),1,red,clock
+둘,tul,2,red,clock
+셋,set,3,red,clock
+넷,net,4,red,clock
+다섯,ta sot,5,red,clock
+여섯,yo sot,6,red,clock
+일곱,il kop,7,red,clock
+여덟,yo tolp,8,red,clock
+아홉,a hop,9,red,clock
+열,yol,10,red,clock
+오전,o chon,AM,red,clock
+오후,o hu,PM,red,clock
+반,pan,half,red,clock
+쪽,jok,page,red,noun
+대화,tae hwa,conversation,red,noun
+분,pun,minute,red,clock
+시,shi,hour,red,clock
+저분,cho pun,person (that),red,noun
+이것,i kot,this,red,particle
+그것,kee kot,that (addressee close),red,particle
+저것,cho kot,that (addressee far),red,particle
+여기,yo ki,here,red,particle
+거기,ko ki,there (addressee close),red,particle
+저기,cho ki,there (addressee far),red,particle

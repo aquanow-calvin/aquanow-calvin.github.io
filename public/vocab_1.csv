@@ -210,25 +210,25 @@ hangul,romanji,english,severity,type
 부터,since,red,time
 까지,until,red,time
 보통,po ttong,usually,red,time
-일,il,1,red,number
-이,i,2,red,number
-삼,sam,3,red,number
-사,sa,4,red,number
-오,o,5,red,number
-육,yuk,6,red,number
-칠,cchil,7,red,number
-팔,ppal,8,red,number
-구,ku,9,red,number
+일,il,01,red,number
+이,i,02,red,number
+삼,sam,03,red,number
+사,sa,04,red,number
+오,o,05,red,number
+육,yuk,06,red,number
+칠,cchil,07,red,number
+팔,ppal,08,red,number
+구,ku,09,red,number
 십,ship,10,red,number
-하(나),ha (na),1,red,clock
-둘,tul,2,red,clock
-셋,set,3,red,clock
-넷,net,4,red,clock
-다섯,ta sot,5,red,clock
-여섯,yo sot,6,red,clock
-일곱,il kop,7,red,clock
-여덟,yo tolp,8,red,clock
-아홉,a hop,9,red,clock
+하(나),ha (na),01,red,clock
+둘,tul,02,red,clock
+셋,set,03,red,clock
+넷,net,04,red,clock
+다섯,ta sot,05,red,clock
+여섯,yo sot,06,red,clock
+일곱,il kop,07,red,clock
+여덟,yo tolp,08,red,clock
+아홉,a hop,09,red,clock
 열,yol,10,red,clock
 오전,o chon,morning (AM),red,clock
 오후,o hu,afternoon (PM),red,clock

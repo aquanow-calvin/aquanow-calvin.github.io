@@ -46,10 +46,15 @@ class App extends Component {
   
   selectType(event) {
     const type = event.target.value;
+
+    let vocabulary_filtered = type ? this.state.vocabulary.filter(x => x.type === type) : this.state.vocabulary;
+    if (type === "number" || type === "clock") {
+      vocabulary_filtered.sort((a, b) => { if (a.english < b.english) { return -1 }});
+    };
     
     this.setState({
       selectedType: type,
-      vocabulary_filtered: type ? this.state.vocabulary.filter(x => x.type === type) : this.state.vocabulary
+      vocabulary_filtered
     }, () => {
       const {
         hangul,

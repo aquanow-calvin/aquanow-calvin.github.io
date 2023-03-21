@@ -180,9 +180,9 @@ hangul,romanji,english,severity,type
 공원,kong won,park,red,noun
 화장품,hwa chang ppum,makeup,green,noun
 술집,sul chip,(alcohol) bar,green,noun
-전자,chon cha,before,red,time
-먼저,mon cho,first,red,time
-어느,o nee,which,red,particle
+전자,chOn cha,before,red,time
+먼저,mOn chO,first,red,time
+어느,O nee,which,red,particle
 어떻,O dot,how,red,particle
 무엇,mu Ot,what,red,particle
 언제,On che,when,red,particle

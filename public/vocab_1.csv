@@ -324,13 +324,13 @@ hangul,romanji,english,severity,type
 생일,saeng il,birthday,red,date
 크리스마스,kkee ri see ma see,christmas,green,date
 월,wol,month,red,date
-일요일,_ il yo il,sunday,red,date
-월요일,_ wol yo il,monday,red,date
-화요일,_ hwa yo il,tuesday,red,date
-수요일,_ su yo il,wednesday,red,date
-목요일,_ mok yo il,thursday,red,date
-금요일,_ keem yo il,friday,red,date
-토요일,_ tto yo il,saturday,red,date
+일요일,il yo il,_ sunday,red,date
+월요일,wol yo il,_ monday,red,date
+화요일,hwa yo il,_ tuesday,red,date
+수요일,su yo il,_wednesday,red,date
+목요일,mok yo il,_thursday,red,date
+금요일,keem yo il,_friday,red,date
+토요일,tto yo il,_saturday,red,date
 좀,chom,some,red,adverb
 서다,so ta,to stand,red,verb
 웃다,ut ta,to laugh,red,verb

@@ -207,7 +207,7 @@ hangul,romanji,english,severity,type
 맛있다,ma shit ta,delicious,red,adjective
 맛없다,mat op ta,not delicious,red,adjective
 태권도,tae kwon to,taekwondo,red,noun
-몇,myot,what (for counting),red,particle
+몇,myot,what (counting ie time, ppl, pages),red,particle
 부터,pu tto,since (from),red,particle
 까지,ga chi,until (to),red,particle
 보통,po ttong,usually,red,time

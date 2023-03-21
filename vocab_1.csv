@@ -249,9 +249,9 @@ hangul,romanji,english,severity,type
 공기,kong ki,air,green,noun
 길,kil,road,green,noun
 고기,ko ki,meat,green,noun
-아침,a cchim,breakfast,red,time
-점심,chom shim,lunch,red,time
-저녁,cho nyok,dinner,red,time
+아침,a cchim,morning,red,time
+점심,chom shim,afternoon,red,time
+저녁,cho nyok,evening,red,time
 복습(을)하다,pok (eel) seep,to review,green,verb
 시험,shi hom,test,red,noun
 예습(을)하다,e sip (eel) ha ta,to preview,green,verb

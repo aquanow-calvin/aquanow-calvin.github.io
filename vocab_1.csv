@@ -183,7 +183,7 @@ hangul,romanji,english,severity,type
 전자,chOn cha,before,red,time
 먼저,mOn chO,first,red,time
 어느,O nee,which,red,particle
-어떻,O dot,how,red,particle
+어떻,O dOt,how,red,particle
 무엇,mu Ot,what,red,particle
 언제,On che,when,red,particle
 내일,nae il,tomorrow,red,time
@@ -200,7 +200,7 @@ hangul,romanji,english,severity,type
 안,an,inside,red,direction
 밖,pag,outside,red,direction
 옆,yOpp,beside,red,direction
-그럼,kee rom,then,red,particle
+그럼,kee rOm,then,red,particle
 그리고,kee ri ko,and,red,particle
 맛있다,ma shit ta,delicious,red,adjective
 맛없다,mat Op ta,not delicious,red,adjective
@@ -306,7 +306,7 @@ hangul,romanji,english,severity,type
 맥주,maek chu,beer,red,noun (food)
 앉다,ant ta,to sit,green,verb
 오늘,o neel,today,red,time
-며칠,myo cchil,what (date),red,particle
+며칠,myO cchil,what (date),red,particle
 어제,O che,yesterday,red,time
 주말,chu mal,weekend,red,clock
 지난주,chi nan chu,last week,red,clock

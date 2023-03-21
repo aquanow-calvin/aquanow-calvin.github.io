@@ -48,7 +48,7 @@ class App extends Component {
     const type = event.target.value;
 
     let vocabulary_filtered = type ? this.state.vocabulary.filter(x => x.type === type) : this.state.vocabulary;
-    if (type === "number" || type === "clock") {
+    if (["number", "clock", "date"].includes(type)) {
       vocabulary_filtered.sort((a, b) => { if (a.english < b.english) { return -1 }});
     };
     

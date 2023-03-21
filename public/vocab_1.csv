@@ -42,7 +42,7 @@ hangul,romanji,english,severity,type
 안경,an kyong,glasses,green,noun
 교실,kyo shil,classroom,red,noun (place)
 사진,sa chin,photo,green,noun
-축구 선수,cchuk ku son su,soccer player,green,noun
+선수,son su,(sports) player,green,noun
 사탕,sa ttong,candy,orange,noun
 그림,kee rim,painting,orange,noun
 여동생,yo tong saeng,younger sister,orange,noun
@@ -158,7 +158,7 @@ hangul,romanji,english,severity,type
 바쁘다,pa bee ta,busy,red,adjective
 한가하다,han ka ha ta,free,red,adjective
 더럽다,to rop ta,dirty,red,adjective
-깨끗하다,gae kkeet ha ta,clean,red,adjective
+깨끄하다,gae gee ha ta,clean,red,adjective
 친절하다,cchin chol ha ta,kind,red,adjective
 재미있다,chae mi it ta,interesting,red,adjective
 재미없다,chae mi op ta,boring,red,adjective
@@ -183,6 +183,7 @@ hangul,romanji,english,severity,type
 화장품,hwa chang pum,makeup,green,noun
 술집,sul chip,(alcohol) bar,green,noun
 전자,chon cha,before,red,time
+먼저,mon cho,first,red,time
 어느,o nee,which,red,particle
 어떻,o dot,how,red,particle
 무엇,mu ot,what,red,particle
@@ -307,7 +308,7 @@ hangul,romanji,english,severity,type
 맥주,maek chu,beer,red,noun (food)
 앉다,ant ta,to sit,green,verb
 오늘,o neel,today,red,time
-요일,yo il,day (of week),red,date
+며칠,myo cchil,what (date),red,particle
 어제,o che,yesterday,red,time
 주말,chu mal,weekend,red,clock
 지난주,chi nan chu,last week,red,clock
@@ -317,4 +318,50 @@ hangul,romanji,english,severity,type
 층,cheeng,floor,red,number
 수업,su op,lesson,orange,noun
 시작하다,shi chak ha ta,to start,orange,verb
+끝나다,geet na ta,to send,red,verb
 일어나다,il o na ta,to get up,red,verb
+요일,yo il,day (of week),red,date
+생일,saeng il,birthday,red,date
+크리스마스,kkee ri see ma see,christmas,green,date
+월,wol,month,red,date
+일요일,_ il yo il,sunday,red,date
+월요일,_ wol yo il,monday,red,date
+화요일,_ hwa yo il,tuesday,red,date
+수요일,_ su yo il,wednesday,red,date
+목요일,_ mok yo il,thursday,red,date
+금요일,_ keem yo il,friday,red,date
+토요일,_ tto yo il,saturday,red,date
+좀,chom,some,red,adverb
+서다,so ta,to stand,red,verb
+웃다,ut ta,to laugh,red,verb
+닦다,takk ta,to brush,red,verb
+세수하다,se su ha ta,to wash face,red,verb
+이,i,teeth,red,noun
+묻다,mut ta,to ask,red,verb
+힘들다,him teel ta,hard,red,adjective
+지만,chi man,but,red,particle
+축구,cchuk ku,soccer,red,noun (sports)
+농구,nong ku,basketball,red,noun (sports)
+요가,yo ka,yoga,red,noun (sports)
+서핑,so pping,surfing,red,noun (sports)
+테니스,ttae ni see,tennis,red,noun (sports)
+골프,kol ppee,golf,red,noun (sports)
+탁구,ttak ku,ping pong,red,noun (sports)
+스키,su kki,ski,red,noun (sports)
+스케이트,see kke i ttee,skate,red,noun (sports)
+스노보드,see no po tee,snowboard,red,noun (sports)
+빌리다,pil ri ta,to borrow,red,verb
+지하철,chi ha cchol,subway,orange,noun
+비싸다,pi sza ta,expensive,orange,adjective
+빠르다,ba ree ta,to be fast,red,adjective
+청소하다,cchong so ha ta,to clean,red,verb
+너무,no mu,too,red,adverb
+많이,man i,many,red,adverb
+여행하다,yo haeng ha ta,to travel,red,verb
+빨래하다,bal rae ha ta,to laundry,red,verb
+쇼핑하다,syo pping ha ta,to shop,red,verb
+데이트하다,te i ttee ha ta,to date,red,verb
+쉽다,swip ta,easy,red,adjective
+어렵다,o ryop ta,hard,red,adjective
+반갑다,pan kap ta,nice to meet,red,adjective
+귀엽다,kwi yop ta,cute,red,adjective

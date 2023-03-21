@@ -307,7 +307,7 @@ hangul,romanji,english,severity,type
 맥주,maek chu,beer,red,noun (food)
 앉다,ant ta,to sit,green,verb
 오늘,o neel,today,red,time
-요일,yo il,day (of week),red,date
+며칠,myo cchil,what (date),red,particle
 어제,o che,yesterday,red,time
 주말,chu mal,weekend,red,clock
 지난주,chi nan chu,last week,red,clock
@@ -318,3 +318,14 @@ hangul,romanji,english,severity,type
 수업,su op,lesson,orange,noun
 시작하다,shi chak ha ta,to start,orange,verb
 일어나다,il o na ta,to get up,red,verb
+요일,yo il,day (of week),red,date
+생일,saeng il,birthday,red,date
+크리스마스,kkee ri see ma see,christmas,green,date
+월,wol,month,red,date
+일요일,_ il yo il,sunday,red,date
+월요일,_ wol yo il,monday,red,date
+화요일,_ hwa yo il,tuesday,red,date
+수요일,_ su yo il,wednesday,red,date
+목요일,_ mok yo il,thursday,red,date
+금요일,_ keem yo il,friday,red,date
+토요일,_ tto yo il,saturday,red,date

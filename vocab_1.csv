@@ -136,7 +136,7 @@ hangul,romanji,english,severity,type
 좋다,chot ta,good,red,adjective
 나쁘다,na bee ta,bad,red,adjective
 조용하다,cho yong ha ta,quiet,red,adjective
-시끄럽다,shi gee rop ta,noisy,red,adjective
+시끄럽다,shi gee rOp ta,noisy,red,adjective
 영어,yOng o,english,red,noun
 공항,kong hang,airport,green,noun (place)
 극장,keek chang,theater,orange,noun (place)

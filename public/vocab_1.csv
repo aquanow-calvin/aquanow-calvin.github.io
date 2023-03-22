@@ -116,7 +116,7 @@ hangul,romanji,english,severity,type
 겨울,kyo ul,winter,green,noun
 차갑다,ccha kap ta,cold (obj),green,adjective
 뜨겁다,gee kOp ta,hot (obj),green,adjective
-넓다,nOl ta,wide,orange,adjective
+넓다,nOlp ta,wide,orange,adjective
 좁다,chop ta,narrow,green,adjective
 가게,ka ke,store,red,noun (place)
 조금,cho keem,little (not very),orange,adverb
@@ -133,10 +133,10 @@ hangul,romanji,english,severity,type
 적다,chOk ta,few,red,adjective
 덥다,tOp ta,hot,red,adjective
 춥다,cchup ta,cold,red,adjective
-좋다,cho ta,good,red,adjective
+좋다,chot ta,good,red,adjective
 나쁘다,na bee ta,bad,red,adjective
 조용하다,cho yong ha ta,quiet,red,adjective
-시끄럽다,shi gee rop ta,noisy,red,adjective
+시끄럽다,shi gee rOp ta,noisy,red,adjective
 영어,yOng o,english,red,noun
 공항,kong hang,airport,green,noun (place)
 극장,keek chang,theater,orange,noun (place)
@@ -157,7 +157,7 @@ hangul,romanji,english,severity,type
 한가하다,han ka ha ta,free,red,adjective
 더럽다,tO rOp ta,dirty,red,adjective
 깨끄하다,gae gee ha ta,clean,red,adjective
-친절하다,cchin chol ha ta,kind,red,adjective
+친절하다,cchin chOl ha ta,kind,red,adjective
 재미있다,chae mi it ta,interesting,red,adjective
 재미없다,chae mi op ta,boring,red,adjective
 경치,kyOng cchi,scenery,orange,noun
@@ -180,10 +180,10 @@ hangul,romanji,english,severity,type
 공원,kong won,park,red,noun
 화장품,hwa chang ppum,makeup,green,noun
 술집,sul chip,(alcohol) bar,green,noun
-전자,chon cha,before,red,time
-먼저,mon cho,first,red,time
-어느,o nee,which,red,particle
-어떻,O dot,how,red,particle
+전자,chOn cha,before,red,time
+먼저,mOn chO,first,red,time
+어느,O nee,which,red,particle
+어떻,O dOt,how,red,particle
 무엇,mu Ot,what,red,particle
 언제,On che,when,red,particle
 내일,nae il,tomorrow,red,time
@@ -195,15 +195,13 @@ hangul,romanji,english,severity,type
 근처,keen cchO,around,red,particle
 앞,app,front,red,direction
 뒤,twi,behind,red,direction
-아라,arae,under,red,direction
+아래,arae,under,red,direction
 위,uwi,over,red,direction
 안,an,inside,red,direction
 밖,pag,outside,red,direction
 옆,yOpp,beside,red,direction
-그럼,kee rom,then,red,particle
+그럼,kee rOm,then,red,particle
 그리고,kee ri ko,and,red,particle
-맛있다,ma shit ta,delicious,red,adjective
-맛없다,mat Op ta,not delicious,red,adjective
 태권도,tae kwon to,taekwondo,red,noun
 몇,myOt,what (counting ie time, ppl, pages),red,particle
 부터,pu ttO,since (from),red,particle
@@ -290,7 +288,7 @@ hangul,romanji,english,severity,type
 놀다,nol ta,to play,red,verb
 살다,sal ta,to live,red,verb
 열다,yOl ta,to open,red,verb
-배고프다,pae ko pee ta,hungry,red,adjective
+배고프다,pae ko ppee ta,hungry,red,adjective
 시키다,shi kki ta,to order,red,verb
 주다,chu ta,to give,red,verb
 삼겹살,sam kyOp sal,pork belly,red,noun (food)
@@ -305,8 +303,9 @@ hangul,romanji,english,severity,type
 김밥,kim pap,kimbap,red,noun (food)
 맥주,maek chu,beer,red,noun (food)
 앉다,ant ta,to sit,green,verb
+어디,O di,where,red,particle
 오늘,o neel,today,red,time
-며칠,myo cchil,what (date),red,particle
+며칠,myO cchil,what (date),red,particle
 어제,O che,yesterday,red,time
 주말,chu mal,weekend,red,clock
 지난주,chi nan chu,last week,red,clock
@@ -349,7 +348,7 @@ hangul,romanji,english,severity,type
 스케이트,see kke i ttee,skate,red,noun (sports)
 스노보드,see no po tee,snowboard,red,noun (sports)
 빌리다,pil ri ta,to borrow,red,verb
-지하철,chi ha cchol,subway,orange,noun
+지하철,chi ha cchOl,subway,orange,noun
 비싸다,pi sza ta,expensive,orange,adjective
 빠르다,ba ree ta,to be fast,red,adjective
 청소하다,cchong so ha ta,to clean,red,verb

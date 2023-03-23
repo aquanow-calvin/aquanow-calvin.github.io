@@ -4,6 +4,7 @@ hangul,romanji,english,severity,type
 의사,eei sa,doctor,red,noun
 가수,ka su,singer,red,noun
 배우,pae u,actor,red,noun
+누구,nu ku,who,red,particle
 선생님,song saeng nim,teacher,red,noun
 회사원,hwe sa won,office worker,red,noun
 은행원,een haeng won,bank worker,red,noun
@@ -102,7 +103,7 @@ hangul,romanji,english,severity,type
 강당,kang tang,auditorium,orange,noun (place)
 교과서,kyo kwa so,textbook,orange,noun
 고향,ko hyang,hometown,red,noun (place)
-싶다,ship ta,to want,red,verb
+싶다,shipp ta,to want,red,verb
 산,san,mountain,red,noun (place)
 강,kang,river,red,noun (place)
 호수,ho su,lake,red,noun (place)
@@ -179,7 +180,7 @@ hangul,romanji,english,severity,type
 동생,tong saeng,sibling,red,noun
 공원,kong won,park,red,noun
 화장품,hwa chang ppum,makeup,green,noun
-술집,sul chip,(alcohol) bar,green,noun
+술을,sul eel,alcohol,red,noun
 전자,chOn cha,before,red,time
 먼저,mOn chO,first,red,time
 어느,O nee,which,red,particle
@@ -202,6 +203,8 @@ hangul,romanji,english,severity,type
 옆,yOpp,beside,red,direction
 그럼,kee rOm,then,red,particle
 그리고,kee ri ko,and,red,particle
+맛있다,mat shit ta,delicious,red,adjective
+맛없다,mat shOp ta,not delicious,red,adjective
 태권도,tae kwon to,taekwondo,red,noun
 몇,myOt,what (counting ie time, ppl, pages),red,particle
 부터,pu ttO,since (from),red,particle
@@ -216,7 +219,7 @@ hangul,romanji,english,severity,type
 칠,cchil,07,red,number
 팔,ppal,08,red,number
 구,ku,09,red,number
-십,ship,10,red,number
+십,ship,10 (for xx:10 exclude il),red,number
 하나 (한),ha na (han),01,red,clock
 둘 (두),tul (tu),02,red,clock
 셋 (세),set (se),03,red,clock
@@ -232,7 +235,7 @@ hangul,romanji,english,severity,type
 오후,o hu,afternoon (PM),red,clock
 반,pan,half,red,clock
 쪽,jok,page,red,number
-대화,tae hwa,conversation,orange,noun
+대화(를)하다,tae hwa (leel) ha ta,to converse,orange,noun
 분,pun,minute,red,clock
 시,shi,hour,red,clock
 저분,chO pun,person (that),red,noun
@@ -250,9 +253,10 @@ hangul,romanji,english,severity,type
 아침,a cchim,morning (n. breakfast),red,clock
 점심,chOm shim,afternoon (n. lunch),red,clock
 저녁,chO nyOk,evening (n. dinner),red,clock
-복습(을)하다,pok (eel) seep,to review,green,verb
-시험,shi hom,test,red,noun
-예습(을)하다,e sip (eel) ha ta,to preview,green,verb
+복습(을)하다,pok sheep (eel) ha ta,to review,red,verb
+시험,shi hOm,test,red,noun
+예습(을)하다,e sheep (eel) ha ta,to study ahead,red,verb
+시험(을)보다,shi hOm (eel) po ta,to take test,red,verb
 고맙다,ko map ta,to thank,orange,verb
 닫다,tat ta,to close,red,verb
 말(을)하다,mal (eel) ha ta,to say,red,verb
@@ -268,6 +272,7 @@ hangul,romanji,english,severity,type
 맛있다,mat shit ta,delicious,red,adjective
 맛없다,mat shOp ta,not delicious,red,adjective
 만들다,man teel ta,to make,red,verb
+우리하다,u ri ha ta,to make,red,verb
 냉면,naeng myOn,cold noodle,red,noun (food)
 불고기,pul ko ki,bulgogi,red,noun (food)
 비빔밥,pi pim pap,bibimbap,red,noun (food)
@@ -362,3 +367,10 @@ hangul,romanji,english,severity,type
 어렵다,o ryOp ta,hard,red,adjective
 반갑다,pan kap ta,nice to meet,red,adjective
 귀엽다,kwi yOp ta,cute,red,adjective
+백,paek,100,red,number
+번,pOn,x times (#),red,clock
+학년,hak nyOn,grade,red,noun
+따르다,da ree ta,to follow,red,verb
+일찍,il jik,early,red,time
+늦게,neet ke,late,red,time
+도와주다,to wa chu ta,to help,red,verb

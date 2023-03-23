@@ -269,8 +269,6 @@ hangul,romanji,english,severity,type
 무슨,mu sheen,what (kind),red,particle
 좋아하다,cho a ha ta,to like,red,verb
 맵다,maep ta,spicy,red,adjective
-맛있다,mat shit ta,delicious,red,adjective
-맛없다,mat shOp ta,not delicious,red,adjective
 만들다,man teel ta,to make,red,verb
 우리하다,u ri ha ta,to make,red,verb
 냉면,naeng myOn,cold noodle,red,noun (food)
@@ -368,9 +366,18 @@ hangul,romanji,english,severity,type
 반갑다,pan kap ta,nice to meet,red,adjective
 귀엽다,kwi yOp ta,cute,red,adjective
 백,paek,100,red,number
+천,cchOn,1000,red,number
 번,pOn,x times (#),red,clock
 학년,hak nyOn,grade,red,noun
 따르다,da ree ta,to follow,red,verb
 일찍,il jik,early,red,time
 늦게,neet ke,late,red,time
-도와주다,to wa chu ta,to help,red,verb
+도와주다,to wa chu ta,to help,red
+과일,kwa il,fruit,red,noun
+타다,tta ta,to ride,red,verb
+버스,pO see,bus,orange,noun
+여러분,yO rO pun,everyone,orange,noun
+호,ho,number (room),orange,number
+그래서,kee rae sO,so then,red,particle
+찬하다,chal ha ta,well,orange,adjective
+못하다,mot ha ta,poor (bad),orange,adjective

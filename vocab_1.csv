@@ -178,20 +178,22 @@ hangul,romanji,english,severity,type
 이야기,i ya ki,story,orange,noun
 아이,a i,kid,orange,noun
 동생,tong saeng,sibling,red,noun
-공원,kong won,park,red,noun
+공원,kong won,park,red,noun (place)
 화장품,hwa chang ppum,makeup,green,noun
 술을,sul eel,alcohol,red,noun
 전자,chOn cha,before,red,time
 먼저,mOn chO,first,red,time
 어느,O nee,which,red,particle
 어떻,O dOt,how,red,particle
-무엇,mu Ot,what,red,particle
+무엇 (뭘),mu Ot (mu Ot sheel> mwol),what,red,particle
 언제,On che,when,red,particle
 내일,nae il,tomorrow,red,time
 지금,chi keem,now,red,time
 가끔,ka geem,sometimes,green,time
-자주,cha chu,often,green,time
+자주,cha chu,often,red,time
 가다,ka ta,to go,red,verb
+콜라,kkol la,cola,red,noun
+값,kapt,value (money),orange,noun
 왜,wae,why,red,particle
 근처,keen cchO,around,red,particle
 앞,app,front,red,direction
@@ -285,27 +287,32 @@ hangul,romanji,english,severity,type
 사과,sa kwa,apple,red,noun (food)
 녹차,nok ccha,green tea,red,noun (food)
 유자차,yu cha ccha,yuzu tea,red,noun (food)
-달다,tal ta,sweet,red,adjective
+달다,tal ta,sweet,red,food
 멀다,mOl ta,far,red,adjective
 길다,kil ta,long,red,adjective
 놀다,nol ta,to play,red,verb
-살다,sal ta,to live,red,verb
+살다,sal ta,to live* (eso and e is ok),red,verb
 열다,yOl ta,to open,red,verb
-배고프다,pae ko ppee ta,hungry,red,adjective
-시키다,shi kki ta,to order,red,verb
-주다,chu ta,to give,red,verb
+배가고프다,pae (ka*) ko ppee ta,hungry,red,adjective
+시키다,shi kki ta,to command,red,verb
+주문하다,chu mun ha ta,to order (food),red,verb
+우산,u san,umbrella,red,noun
+짜다,ja ta,salty,red,food
+시다,shi ta,sour,red,food
+주다,chu ta,to give (to addresser),red,verb
+드리다,tee ri ta,to give (to addressee),red,verb
 삼겹살,sam kyOp sal,pork belly,red,noun (food)
-개,kae,piece,red,food
-판,ppan,plate,red,food
+개,kae,block,red,food
+판,ppan,piece,red,food
 잔,chan,cup,red,food
-줄,chul,line,red,food
+줄,chul,roll,red,food
 병,pyOng,bottle,red,food
 그릇,kee reet,bowl,red,food
 마리,ma ri,# animals,red,food
 인분,in pun,serving,red,food
 김밥,kim pap,kimbap,red,noun (food)
 맥주,maek chu,beer,red,noun (food)
-앉다,ant ta,to sit,red,verb
+앉다,ant ta,to sit,green,verb
 어디,O di,where,red,particle
 오늘,o neel,today,red,time
 며칠,myO cchil,what (date),red,particle
@@ -339,7 +346,7 @@ hangul,romanji,english,severity,type
 이,i,teeth,red,noun
 묻다,mut ta,to ask,red,verb
 힘들다,him teel ta,hard,red,adjective
-지만,chi man,but,red,particle
+(그렇)지만,(kee rOt*) chi man,but,red,particle
 축구,cchuk ku,soccer,red,noun (sports)
 농구,nong ku,basketball,red,noun (sports)
 요가,yo ka,yoga,red,noun (sports)
@@ -354,7 +361,7 @@ hangul,romanji,english,severity,type
 지하철,chi ha cchOl,subway,orange,noun
 비싸다,pi sza ta,expensive,orange,adjective
 빠르다,ba ree ta,to be fast,red,adjective
-청소하다,cchOng so ha ta,to clean,red,verb
+청소하다,cchong so ha ta,to clean,red,verb
 너무,nO mu,too,red,adverb
 많이,man i,many,red,adverb
 여행하다,yo haeng ha ta,to travel,red,verb
@@ -367,17 +374,18 @@ hangul,romanji,english,severity,type
 귀엽다,kwi yOp ta,cute,red,adjective
 백,paek,100,red,number
 천,cchOn,1000,red,number
-번,pOn,number,red,number
+번,pOn,x times (#),red,clock
 학년,hak nyOn,grade,red,noun
 따르다,da ree ta,to follow,red,verb
 일찍,il jik,early,red,time
 늦게,neet ke,late,red,time
 도와주다,to wa chu ta,to help,red
-과일,kwa il,fruit,red,noun (food)
+과일,kwa il,fruit,red,noun
 타다,tta ta,to ride,red,verb
 버스,pO see,bus,orange,noun
 여러분,yO rO pun,everyone,orange,noun
 호,ho,number (room),orange,number
 그래서,kee rae sO,so then,red,particle
-잘하다,chan ha ta,well,orange,adjective
+그럽다,kee rop ta,red,particle
+찬하다,chal ha ta,well,orange,adjective
 못하다,mot ha ta,poor (bad),orange,adjective

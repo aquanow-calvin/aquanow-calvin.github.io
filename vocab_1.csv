@@ -120,7 +120,7 @@ hangul,romanji,english,severity,type
 넓다,nOlp ta,wide,orange,adjective
 좁다,chop ta,narrow,green,adjective
 가게,ka ke,store,red,noun (place)
-조금,cho keem,little (not very),orange,adverb
+조금 (좀),cho keem (chom),little (not very),orange,adverb
 아주,a chu,very,red,adverb
 옷장,ot chang,wardrobe,orange,noun
 책장,cchaek chang,bookshelf,orange,noun
@@ -185,7 +185,7 @@ hangul,romanji,english,severity,type
 먼저,mOn chO,first,red,time
 어느,O nee,which,red,particle
 어떻,O dOt,how,red,particle
-무엇 (뭘),mu Ot (mu Ot sheel> mwol),what,red,particle
+무엇 (뭔, 뭘),mu Ot (mu Ot een> mwon, mu Ot sheel> mwol),what,red,particle
 언제,On che,when,red,particle
 내일,nae il,tomorrow,red,time
 지금,chi keem,now,red,time
@@ -338,7 +338,6 @@ hangul,romanji,english,severity,type
 목요일,mok yo il,4 thursday,red,date
 금요일,keem yo il,5 friday,red,date
 토요일,tto yo il,6 saturday,red,date
-좀,chom,some,red,adverb
 서다,sO ta,to stand,red,verb
 웃다,ut ta,to laugh,red,verb
 닦다,takk ta,to brush,red,verb
@@ -387,5 +386,5 @@ hangul,romanji,english,severity,type
 호,ho,number (room),orange,number
 그래서,kee rae sO,so then,red,particle
 그럽다,kee rop ta,red,particle
-찬하다,chal ha ta,well,orange,adjective
+잘하다,chal ha ta,well,orange,adjective
 못하다,mot ha ta,poor (bad),orange,adjective

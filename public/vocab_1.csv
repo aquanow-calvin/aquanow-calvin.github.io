@@ -313,7 +313,7 @@ hangul,romanji,english,severity,type
 인분,in pun,serving,red,food
 김밥,kim pap,kimbap,red,noun (food)
 맥주,maek chu,beer,red,noun (food)
-앉다,ant ta,to sit,green,verb
+앉다,ant ta,to sit,red,verb
 어디,O di,where,red,particle
 오늘,o neel,today,red,time
 며칠,myO cchil,what (date),red,particle
@@ -361,7 +361,7 @@ hangul,romanji,english,severity,type
 지하철,chi ha cchOl,subway,orange,noun
 비싸다,pi sza ta,expensive,orange,adjective
 빠르다,ba ree ta,to be fast,red,adjective
-청소하다,cchong so ha ta,to clean,red,verb
+청소하다,cchOng so ha ta,to clean,red,verb
 너무,nO mu,too,red,adverb
 많이,man i,many,red,adverb
 여행하다,yo haeng ha ta,to travel,red,verb
@@ -374,7 +374,7 @@ hangul,romanji,english,severity,type
 귀엽다,kwi yOp ta,cute,red,adjective
 백,paek,100,red,number
 천,cchOn,1000,red,number
-번,pOn,x times (#),red,clock
+번,pOn,number (#),red,number
 학년,hak nyOn,grade,green,noun
 따르다,da ree ta,to follow,red,verb
 일찍,il jik,early,red,time

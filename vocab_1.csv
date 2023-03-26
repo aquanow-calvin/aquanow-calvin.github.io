@@ -5,7 +5,7 @@ hangul,romanji,english,severity,type
 가수,ka su,singer,red,noun
 배우,pae u,actor,red,noun
 누구,nu ku,who,red,particle
-선생님,song saeng nim,teacher,red,noun
+선생님,sOng saeng nim,teacher,red,noun
 회사원,hwe sa uwon,office worker,red,noun
 은행원,een haeng uwon,bank worker,red,noun
 간호사,kan ho sa,nurse,red,noun
@@ -18,7 +18,7 @@ hangul,romanji,english,severity,type
 의자,eei cha,chair,red,noun
 칠판,chil ppan,blackboard,red,noun
 지도,chi to,map,red,noun
-달력,tal ryok,calendar,red,noun
+달력,tal ryOk,calendar,red,noun
 시계,shi kye,clock,red,noun
 거울,kO ul,mirror,red,noun
 옷걸이,ot kOl i,coat hanger,red,noun
@@ -124,7 +124,7 @@ hangul,romanji,english,severity,type
 아주,a chu,very,red,adverb
 옷장,ot chang,wardrobe,orange,noun
 책장,cchaek chang,bookshelf,green,noun
-신발장,shin pal chang,shoe cabinet,orange,noun
+신발장,shin pal chang,shoe cabinet,green,noun
 샤워,sya uwo,shower,orange,noun
 체력 단련실,cche ryok tan ryon shil,fitness room,green,noun (place)
 운동장,un tong chang,stadium,orange,noun (place)
@@ -138,7 +138,7 @@ hangul,romanji,english,severity,type
 나쁘다,na bee ta,bad,red,adjective
 조용하다,cho yong ha ta,quiet,red,adjective
 시끄럽다,shi gee rOp ta,noisy,red,adjective
-영어,yOng o,english,red,noun
+영어,yOng O,english,red,noun
 공항,kong hang,airport,green,noun (place)
 극장,keek chang,theater,orange,noun (place)
 싸우다,sza u ta,to fight,green,verb
@@ -163,7 +163,7 @@ hangul,romanji,english,severity,type
 재미없다,chae mi op ta,boring,red,adjective
 경치,kyOng cchi,scenery,orange,noun
 생활,saeng hwal,life,green,noun
-생선,saeng son,fish,orange,noun
+생선,saeng sOn,fish,orange,noun
 남자,nam cha,male,red,noun
 여자,yO cha,female,red,noun
 식사,shik sa,meal,red,noun
@@ -208,7 +208,7 @@ hangul,romanji,english,severity,type
 그리고,kee ri ko,and,red,particle
 맛있다,mat shit ta,delicious,red,adjective
 맛없다,mat shOp ta,not delicious,red,adjective
-태권도,tae kuwon to,taekwondo,red,noun
+태권도,tae kuwOn to,taekwondo,red,noun
 몇,myOt,what (counting ie time, ppl, pages),red,particle
 부터,pu ttO,since (from),red,particle
 까지,ga chi,until (to),red,particle
@@ -238,7 +238,7 @@ hangul,romanji,english,severity,type
 오후,o hu,afternoon (PM),red,clock
 반,pan,half,red,clock
 쪽,jok,page,red,number
-대화(를)하다,tae hwa (leel) ha ta,to converse,orange,noun
+대화(를)하다,tae hwa (leel) ha ta,to converse,orange,verb
 분,pun,minute,red,clock
 시,shi,hour,red,clock
 저분,chO pun,person (that),red,noun

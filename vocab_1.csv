@@ -50,18 +50,18 @@ hangul,romanji,english,severity,type
 신문,shin mun,newspaper,orange,noun
 잡지,chap chi,magazine,orange,noun
 방,pang,room,red,noun
-도서관,to sO kwan,library,red,noun (place)
-학생회관,hak saeng hwe kwan,student hall,red,noun (place)
+도서관,to sO kwoan,library,red,noun (place)
+학생회관,hak saeng hwe kwoan,student hall,red,noun (place)
 서점,sO chom,bookstore,red,noun (place)
 식당,shik tang,restaurant,red,noun (place)
 기숙사,ki suk sa,dormitory,red,noun (place)
 사무실,sa mu shil,office,red,noun (place)
 우체국,u cche kuk,post office,red,noun (place)
-체육관,cche yuk kwan,gym,red,noun (place)
+체육관,cche yuk kwoan,gym,red,noun (place)
 편의점,ppyo ni chOm*,convenience store,red,noun (place)
 학교,hak kyo,school,red,noun (place)
 꽃,kot,flower,red,noun
-외교관,uwe kyo kwan,diplomat,green,noun
+외교관,uwe kyo kwoan,diplomat,green,noun
 친구,cchin ku,friend,red,noun
 날씨,nal shi,weather,red,noun
 나라,nal la,country,red,noun
@@ -186,6 +186,7 @@ hangul,romanji,english,severity,type
 어느,O nee,which,red,particle
 어떻,O dOt,how,red,particle
 무엇 (뭔, 뭘),mu Ot (mu Ot een> mwon, mu Ot sheel> mwol),what,red,particle
+몇,myOt,what (time),red,particle
 언제,On che,when,red,particle
 내일,nae il,tomorrow,red,time
 지금,chi keem,now,red,time

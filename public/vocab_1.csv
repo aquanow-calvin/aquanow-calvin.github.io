@@ -185,8 +185,8 @@ hangul,romanji,english,severity,type
 먼저,mOn chO,first,red,time
 어느,O nee,which,red,particle
 어떻,O dOt,how,red,particle
-무엇 (뭔, 뭘),mu Ot (mu Ot een> muwon, mu Ot sheel> muwol),what,red,particle
-몇,myOt,what (time),red,particle
+무엇 (뭐, 뭔, 뭘),mu Ot (mu Ot > muwO, mu Ot een> muwon, mu Ot sheel> muwol),what,red,particle
+몇시,myOt shi,what (time),red,particle
 언제,On che,when,red,particle
 내일,nae il,tomorrow,red,time
 지금,chi keem,now,red,time
@@ -210,6 +210,7 @@ hangul,romanji,english,severity,type
 맛없다,mat shOp ta,not delicious,red,adjective
 태권도,tae kuwOn to,taekwondo,red,noun
 몇,myOt,what (counting ie time, ppl, pages),red,particle
+이날,i nal,this day,red,particle
 부터,pu ttO,since (from),red,particle
 까지,ga chi,until (to),red,particle
 보통,po ttong,usually,red,time
@@ -317,6 +318,7 @@ hangul,romanji,english,severity,type
 어디,O di,where,red,particle
 오늘,o neel,today,red,time
 며칠,myO cchil,what (date),red,particle
+몇월,myOt uwOl,what (month),red,particle
 어제,O che,yesterday,red,time
 주말,chu mal,weekend,red,clock
 지난주,chi nan chu,last week,red,clock
@@ -331,9 +333,9 @@ hangul,romanji,english,severity,type
 요일,yo il,day (of week),red,date
 생일,saeng il,birthday,red,date
 크리스마스,kkee ri see ma see,christmas,green,date
-월,uwol,month,red,date
+월,uwOl,month,red,date
 일요일,il yo il,0 sunday,red,date
-월요일,uwol yo il,1 monday,red,date
+월요일,uwOl yo il,1 monday,red,date
 화요일,hwa yo il,2 tuesday,red,date
 수요일,su yo il,3 wednesday,red,date
 목요일,mok yo il,4 thursday,red,date

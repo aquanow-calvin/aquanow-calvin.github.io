@@ -185,7 +185,9 @@ hangul,romanji,english,severity,type
 먼저,mOn chO,first,red,time
 어느,O nee,which,red,particle
 어떻,O dOt,how,red,particle
-무엇 (뭐, 뭔, 뭘),mu Ot (mu Ot > muwO, mu Ot een> muwon, mu Ot sheel> muwol),what,red,particle
+무엇 (뭐),mu Ot (mu Ot > muwO),what,red,particle
+무엇 (뭔),mu Ot (mu Ot een > muwOn),what,red,particle
+무엇 (뭘),mu Ot (mu Ot sheel> muwOl),what,red,particle
 몇시,myOt shi,what (time),red,particle
 언제,On che,when,red,particle
 내일,nae il,tomorrow,red,time

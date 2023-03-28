@@ -157,7 +157,11 @@ hangul,romanji,english,severity,type
 바쁘다,pa bee ta,busy,red,adjective
 한가하다,han ka ha ta,free,red,adjective
 더럽다,tO rOp ta,dirty,red,adjective
+내리다,nae ri ta,to get off,red,verb
+보내다,po nae ta,to let go,orange,verb
 깨끗하다,gae geet ha ta,clean,red,adjective
+걷다,kOt ta,to walk,red,verb
+받다,pat ta,to receive,red,verb
 친절하다,cchin chOl ha ta,kind,red,adjective
 재미있다,chae mi it ta,interesting,red,adjective
 재미없다,chae mi op ta,boring,red,adjective
@@ -332,7 +336,7 @@ hangul,romanji,english,severity,type
 층,cheeng,floor,red,number
 수업,su Op,lesson,orange,noun
 시작하다,shi chak ha ta,to start,orange,verb
-끝나다,geet na ta,to send,red,verb
+끝나다,geet na ta,to end,red,verb
 일어나다,il O na ta,to get up,red,verb
 요일,yo il,day (of week),red,date
 생일,saeng il,birthday,red,date

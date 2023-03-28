@@ -157,7 +157,7 @@ hangul,romanji,english,severity,type
 바쁘다,pa bee ta,busy,red,adjective
 한가하다,han ka ha ta,free,red,adjective
 더럽다,tO rOp ta,dirty,red,adjective
-깨끄하다,gae gee ha ta,clean,red,adjective
+깨끗하다,gae geet ha ta,clean,red,adjective
 친절하다,cchin chOl ha ta,kind,red,adjective
 재미있다,chae mi it ta,interesting,red,adjective
 재미없다,chae mi op ta,boring,red,adjective
@@ -185,8 +185,12 @@ hangul,romanji,english,severity,type
 먼저,mOn chO,first,red,time
 어느,O nee,which,red,particle
 어떻,O dOt,how,red,particle
-무엇 (뭐, 뭔, 뭘),mu Ot (mu Ot > muwO, mu Ot een> muwon, mu Ot sheel> muwol),what,red,particle
+무엇 (뭐),mu Ot (mu Ot TO muwO),what,red,particle
+무엇은 (뭔),mu Ot (mu Ot een TO muwOn),what,red,particle
+무엇을 (뭘),mu Ot (mu Ot sheel TO muwOl),what,red,particle
 몇시,myOt shi,what (time),red,particle
+칫솔,cchit sol,toothbrush,green,noun
+치약,cchi yak,toothpaste,green,noun
 언제,On che,when,red,particle
 내일,nae il,tomorrow,red,time
 지금,chi keem,now,red,time

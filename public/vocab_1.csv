@@ -161,7 +161,7 @@ hangul,romanji,english,severity,type
 보내다,po nae ta,to let go,orange,verb
 깨끗하다,gae geet ha ta,clean,red,adjective
 걷다,kOt ta,to walk,red,verb
-받다,pat ta,to receive,red,verb
+받다,pat ta,to receive*,red,verb
 친절하다,cchin chOl ha ta,kind,red,adjective
 재미있다,chae mi it ta,interesting,red,adjective
 재미없다,chae mi op ta,boring,red,adjective
@@ -188,6 +188,9 @@ hangul,romanji,english,severity,type
 전자,chOn cha,before,red,time
 먼저,mOn chO,first,red,time
 어느,O nee,which,red,particle
+나이,na i,age,green,noun
+내리다,nae ri ta,to get off,red,verb
+보내다,po nae ta,to let go,red,verb
 어떻,O dOt,how,red,particle
 무엇 (뭐),mu Ot (mu Ot TO muwO),what,red,particle
 무엇은 (뭔),mu Ot (mu Ot een TO muwOn),what,red,particle
@@ -216,6 +219,7 @@ hangul,romanji,english,severity,type
 그리고,kee ri ko,and,red,particle
 맛있다,mat shit ta,delicious,red,adjective
 맛없다,mat shOp ta,not delicious,red,adjective
+싣다,shit ta,to carry*,red,verb
 태권도,tae kuwOn to,taekwondo,red,noun
 몇,myOt,what (counting ie time, ppl, pages),red,particle
 이날,i nal,this day,red,particle
@@ -270,7 +274,7 @@ hangul,romanji,english,severity,type
 예습(을)하다,e sheep (eel) ha ta,to study ahead,red,verb
 시험(을)보다,shi hOm (eel) po ta,to take test,red,verb
 고맙다,ko map ta,to thank,orange,verb
-닫다,tat ta,to close,red,verb
+닫다,tat ta*,to close,red,verb
 말(을)하다,mal (eel) ha ta,to say,red,verb
 피곤하다,ppi kon ha ta,tired,red,adjective
 운전(을)하다,un chOn (eel) ha ta,to drive,red,verb

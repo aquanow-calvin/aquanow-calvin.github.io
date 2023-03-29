@@ -337,9 +337,9 @@ hangul,romanji,english,severity,type
 몇월,myOt uwOl,what (month),red,particle
 어제,O che,yesterday,red,time
 주말,chu mal,weekend,red,clock
-지난,chi nan,last (time, week),red,clock
-이번,i pOn,this (time, week),red,clock
-다음,next,next (time, week),red,clock
+지난,chi nan,last (time.. week),red,clock
+이번,i pOn,this (time.. week),red,clock
+다음,next,next (time.. week),red,clock
 주중,chu chuong,weekday,red,clock
 평일,pyOng il,weekday,red,clock
 시간,shi kan,time,red,clock

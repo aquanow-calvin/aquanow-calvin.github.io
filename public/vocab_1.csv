@@ -127,7 +127,7 @@ hangul,romanji,english,severity,type
 신발장,shin pal chang,shoe cabinet,green,noun
 샤워,sya uwo,shower,orange,noun
 체력 단련실,cche ryok tan ryon shil,fitness room,green,noun (place)
-운동장,un tong chang,stadium,orange,noun (place)
+운동장,un tong chang,playground (stadium),orange,noun (place)
 크다,kkee ta,big,red,adjective
 작다,chak ta,small,red,adjective
 많다,man ta,many,red,adjective
@@ -357,7 +357,7 @@ hangul,romanji,english,severity,type
 세수하다,se su ha ta,to wash face,red,verb
 이,i,teeth,red,noun
 묻다,mut ta,to ask,red,verb
-힘들다,him teel ta,hard,red,adjective
+힘들다,him teel ta,exhausting,red,adjective
 (그렇)지만,(kee rOt*) chi man,but,red,particle
 축구,cchuk ku,soccer,red,noun (sports)
 농구,nong ku,basketball,red,noun (sports)
@@ -381,7 +381,7 @@ hangul,romanji,english,severity,type
 쇼핑하다,syo pping ha ta,to shop,red,verb
 데이트하다,te i ttee ha ta,to date,red,verb
 쉽다,swip ta,easy,red,adjective
-어렵다,o ryOp ta,hard,red,adjective
+어렵다,o ryOp ta,difficult (technical),red,adjective
 반갑다,pan kap ta,nice to meet,red,adjective
 귀엽다,kwi yOp ta,cute,red,adjective
 백,paek,100,red,number

@@ -114,11 +114,15 @@ hangul,romanji,english,severity,type
 쉬다,swi ta,to rest,red,verb
 자다,cha ta, to sleep,red,verb
 점수,chOm su,score,green,noun
-겨울,kyo ul,winter,green,noun
+겨울,kyo ul,winter,red,time
+여름,yO reem,summer,red,time
+봄,pom,spring,red,time
+가을,ka eel,autumn,red,time
+인기,in ki,popularity,red,noun
 차갑다,ccha kap ta,cold (obj),green,adjective
 뜨겁다,gee kOp ta,hot (obj),green,adjective
 넓다,nOlp ta,wide,orange,adjective
-좁다,chop ta,narrow,green,adjective
+좁다,chop ta,narrow,red,adjective
 가게,ka ke,store,red,noun (place)
 조금 (좀),cho keem (chom),little (not very),orange,adverb
 아주,a chu,very,red,adverb
@@ -127,7 +131,7 @@ hangul,romanji,english,severity,type
 신발장,shin pal chang,shoe cabinet,green,noun
 샤워,sya uwo,shower,orange,noun
 체력 단련실,cche ryok tan ryon shil,fitness room,green,noun (place)
-운동장,un tong chang,(playground) stadium,orange,noun (place)
+운동장,un tong chang,playground (stadium),orange,noun (place)
 크다,kkee ta,big,red,adjective
 작다,chak ta,small,red,adjective
 많다,man ta,many,red,adjective
@@ -190,6 +194,8 @@ hangul,romanji,english,severity,type
 나이,na i,age,green,noun
 보내다,po nae ta,to let go,red,verb
 어떻,O dOt,how,red,particle
+어때,O dae,how (informal),red,particle
+어땠,O daet,how (past),red,particle
 무엇 (뭐),mu Ot (mu Ot TO muwO),what,red,particle
 무엇은 (뭔),mu Ot (mu Ot een TO muwOn),what,red,particle
 무엇을 (뭘),mu Ot (mu Ot sheel TO muwOl),what,red,particle
@@ -331,7 +337,11 @@ hangul,romanji,english,severity,type
 몇월,myOt uwOl,what (month),red,particle
 어제,O che,yesterday,red,time
 주말,chu mal,weekend,red,clock
-지난주,chi nan chu,last week,red,clock
+지난,chi nan,last (time, week),red,clock
+이번,i pOn,this (time, week),red,clock
+다음,next,next (time, week),red,clock
+주중,chu chuong,weekday,red,clock
+평일,pyOng il,weekday,red,clock
 시간,shi kan,time,red,clock
 있다,it ta,to be,red,verb
 잆다,op ta,to not be,red,verb
@@ -401,3 +411,5 @@ hangul,romanji,english,severity,type
 그럽다,kee rop ta,red,particle
 잘하다,chal ha ta,well,orange,adjective
 못하다,mot ha ta,poor (bad),orange,adjective
+돕다,top ta,to help,red,verb
+요즘,yo cheem,recently,red,time

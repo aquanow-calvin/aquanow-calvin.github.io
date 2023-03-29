@@ -114,7 +114,7 @@ hangul,romanji,english,severity,type
 쉬다,swi ta,to rest,red,verb
 자다,cha ta, to sleep,red,verb
 점수,chOm su,score,green,noun
-겨울,kyo ul,winter,red,time
+겨울,kyO ul,winter,red,time
 여름,yO reem,summer,red,time
 봄,pom,spring,red,time
 가을,ka eel,autumn,red,time
@@ -337,9 +337,9 @@ hangul,romanji,english,severity,type
 몇월,myOt uwOl,what (month),red,particle
 어제,O che,yesterday,red,time
 주말,chu mal,weekend,red,clock
-지난,chi nan,last (time, week),red,clock
-이번,i pOn,this (time, week),red,clock
-다음,next,next (time, week),red,clock
+지난,chi nan,last (time.. week),red,clock
+이번,i pOn,this (time.. week),red,clock
+다음,next,next (time.. week),red,clock
 주중,chu chuong,weekday,red,clock
 평일,pyOng il,weekday,red,clock
 시간,shi kan,time,red,clock

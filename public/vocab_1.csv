@@ -125,7 +125,7 @@ hangul,romanji,english,severity,type
 좁다,chop ta,narrow,red,adjective
 가게,ka ke,store,red,noun (place)
 조금 (좀),cho keem (chom),little (not very),orange,adverb
-아주,a chu,very,red,adverb
+아주,a chu,very (positive),red,adverb
 옷장,ot chang,wardrobe,orange,noun
 책장,cchaek chang,bookshelf,green,noun
 신발장,shin pal chang,shoe cabinet,green,noun
@@ -337,9 +337,9 @@ hangul,romanji,english,severity,type
 몇월,myOt uwOl,what (month),red,particle
 어제,O che,yesterday,red,time
 주말,chu mal,weekend,red,clock
-지난,chi nan,last (time.. week),red,clock
-이번,i pOn,this (time.. week),red,clock
-다음,next,next (time.. week),red,clock
+지난,chi nan,last (time/ week),red,clock
+이번,i pOn,this (time/ week),red,clock
+다음,ta eem,next (time/ week),red,clock
 주중,chu chuong,weekday,red,clock
 평일,pyOng il,weekday,red,clock
 시간,shi kan,time,red,clock
@@ -384,7 +384,7 @@ hangul,romanji,english,severity,type
 비싸다,pi sza ta,expensive,orange,adjective
 빠르다,ba ree ta,to be fast,red,adjective
 청소하다,cchOng so ha ta,to clean,red,verb
-너무,nO mu,too,red,adverb
+너무,nO mu,too (negative),red,adverb
 많이,man i,many,red,adverb
 여행하다,yo haeng ha ta,to travel,red,verb
 빨래하다,bal rae ha ta,to laundry,red,verb

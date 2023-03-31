@@ -197,13 +197,14 @@ hangul,romanji,english,severity,type
 어때,O dae,how (informal),red,particle
 어땠,O daet,how (past),red,particle
 무엇 (뭐),mu Ot (mu Ot TO muwO),what,red,particle
-무엇은 (뭔),mu Ot (mu Ot een TO muwOn),what,red,particle
-무엇을 (뭘),mu Ot (mu Ot sheel TO muwOl),what,red,particle
+무엇을 (뭘),mu Ot (mu Ot sheel TO muwOl),what (action),red,particle
 몇시,myOt shi,what (time),red,particle
 칫솔,cchit sol,toothbrush,green,noun
 치약,cchi yak,toothpaste,green,noun
+얇다,yalp ta,thin,red,adjective
 언제,On che,when,red,particle
 내일,nae il,tomorrow,red,time
+모레,mo re,day after tomorrow,red,time
 지금,chi keem,now,red,time
 가끔,ka geem,sometimes,green,time
 자주,cha chu,often,red,time
@@ -336,10 +337,12 @@ hangul,romanji,english,severity,type
 며칠,myO cchil,what (date),red,particle
 몇월,myOt uwOl,what (month),red,particle
 어제,O che,yesterday,red,time
+그제,kee che,day before yesterday,red,time
 주말,chu mal,weekend,red,clock
 지난,chi nan,last (time/ week),red,clock
 이번,i pOn,this (time/ week),red,clock
 다음,ta eem,next (time/ week),red,clock
+다다음,ta eem,next next (time/ week),red,clock
 주중,chu chuong,weekday,red,clock
 평일,pyOng il,weekday,red,clock
 시간,shi kan,time,red,clock
@@ -413,3 +416,4 @@ hangul,romanji,english,severity,type
 못하다,mot ha ta,poor (bad),orange,adjective
 돕다,top ta,to help,red,verb
 요즘,yo cheem,recently,red,time
+곱다,kop ta,pretty,red,adjective

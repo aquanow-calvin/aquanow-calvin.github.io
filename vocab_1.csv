@@ -343,6 +343,10 @@ hangul,romanji,english,severity,type
 이번,i pOn,this (time/ week),red,clock
 다음,ta eem,next (time/ week),red,clock
 다다음,ta eem,next next (time/ week),red,clock
+올해,ol hae,this year,red,clock
+금년,keem nyOn,this year,red,clock
+작년,chak nyOn,last year,red,clock
+내년,nae nyOn,next year,red,clock
 주중,chu chuong,weekday,red,clock
 평일,pyOng il,weekday,red,clock
 시간,shi kan,time,red,clock

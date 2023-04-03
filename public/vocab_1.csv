@@ -113,7 +113,7 @@ hangul,romanji,english,severity,type
 오다,o ta,to come,red,verb
 쉬다,swi ta,to rest,red,verb
 자다,cha ta, to sleep,red,verb
-점수,chOm su,score,green,noun
+점수,chOm su,grade (score),green,noun
 겨울,kyO ul,winter,red,time
 여름,yO reem,summer,red,time
 봄,pom,spring,red,time
@@ -407,7 +407,9 @@ hangul,romanji,english,severity,type
 학년,hak nyOn,grade,green,noun
 따르다,da ree ta,to follow,red,verb
 일찍,il jik,early,red,time
+일찍,il jik,early,red,adverb
 늦게,neet ke,late,red,time
+늦게,neet ke,late,red,adverb
 도와주다,to wa chu ta,to help,red
 과일,kOwa il,fruit,red,noun
 타다,tta ta,to ride,red,verb
@@ -421,3 +423,17 @@ hangul,romanji,english,severity,type
 돕다,top ta,to help,red,verb
 요즘,yo cheem,recently,red,time
 곱다,kop ta,pretty,red,adjective
+아프다,a pee ta,sick,red,adjective
+오래,o rae,long time,red,time
+화장실,howa chang sil,restroom,red,noun (place)
+정말,chOng mal,forreal,red,particle
+비가 오다,pi ka o ta,raining,red,verb
+손님,son nim,customer,red,noun
+가깝다,ka gap ta,nearby,red,adjective
+콘서트,kkon sO ttee,concert,red,noun
+잘못,chal mot,wrong,orange,particle
+예매하다,ye mae ha ta,to reserve (ticket),red,verb
+예약하다,ye yak ha ta,to reserve (appointment),red,verb
+천천히,chOn chOn hi,slowly,red,adverb
+빠르,ba ree,fast,red,adverb
+표,pyu,ticket,red,noun

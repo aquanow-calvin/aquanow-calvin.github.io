@@ -351,7 +351,7 @@ hangul,romanji,english,severity,type
 평일,pyOng il,weekday,red,clock
 시간,shi kan,time,red,clock
 있다,it ta,to be,red,verb
-잆다,op ta,to not be,red,verb
+없다,op ta,to not be,red,verb
 층,cheeng,floor,red,number
 수업,su Op,lesson,orange,noun
 시작하다,shi chak ha ta,to start,orange,verb

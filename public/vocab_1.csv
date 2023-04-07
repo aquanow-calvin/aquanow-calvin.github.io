@@ -16,7 +16,7 @@ hangul,romanji,english,severity,type
 공책,kong cchaek,notebook,red,noun
 책상,cchaek saeng,desk/table,red,noun
 의자,eei cha,chair,red,noun
-칠판,chil ppan,blackboard,red,noun
+칠판,cchil ppan,blackboard,red,noun
 지도,chi to,map,red,noun
 달력,tal ryOk,calendar,red,noun
 시계,shi kye,clock,red,noun
@@ -224,7 +224,8 @@ hangul,romanji,english,severity,type
 그리고,kee ri ko,and,red,particle
 맛있다,mat shit ta,delicious,red,adjective
 맛없다,mat shOp ta,not delicious,red,adjective
-싣다,shit ta,to carry*,red,verb
+싣다,shit ta,to carry,red,verb
+열심히,yOl shim hi,trying hardly,red,adverb
 태권도,tae kuwOn to,taekwondo,red,noun
 몇,myOt,what (counting ie time, ppl, pages),red,particle
 이날,i nal,this day,red,particle
@@ -351,11 +352,14 @@ hangul,romanji,english,severity,type
 평일,pyOng il,weekday,red,clock
 시간,shi kan,time,red,clock
 있다,it ta,to be,red,verb
-잆다,op ta,to not be,red,verb
+없다,op ta,to not be,red,verb
 층,cheeng,floor,red,number
 수업,su Op,lesson,orange,noun
 시작하다,shi chak ha ta,to start,orange,verb
-끝나다,geet na ta,to end,red,verb
+약속,yak sok,appointment (promise),red,noun
+자전거,cha chOn kO,bicycle,red,noun
+지키다,chi kki ta,to keep,red,noun
+끝나다,geet na ta,adjective,red,verb
 일어나다,il O na ta,to get up,red,verb
 요일,yo il,day (of week),red,date
 생일,saeng il,birthday,red,date
@@ -418,7 +422,8 @@ hangul,romanji,english,severity,type
 호,ho,number (room),orange,number
 그래서,kee rae sO,so then,red,particle
 그럽다,kee rop ta,red,particle
-잘하다,chal ha ta,well,orange,adjective
+잘,chal,well,red,adverb
+단어,tan O,word,red,noun
 못하다,mot ha ta,poor (bad),orange,adjective
 돕다,top ta,to help,red,verb
 요즘,yo cheem,recently,red,time

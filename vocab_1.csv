@@ -356,7 +356,10 @@ hangul,romanji,english,severity,type
 층,cheeng,floor,red,number
 수업,su Op,lesson,orange,noun
 시작하다,shi chak ha ta,to start,orange,verb
-끝나다,geet na ta,to end,red,verb
+약속,yak sok,appointment (promise),red,noun
+자전거,cha chOn kO,bicycle,red,noun
+지키다,chi kki ta,to keep,red,noun
+끝나다,geet na ta,adjective,red,verb
 일어나다,il O na ta,to get up,red,verb
 요일,yo il,day (of week),red,date
 생일,saeng il,birthday,red,date
@@ -419,7 +422,8 @@ hangul,romanji,english,severity,type
 호,ho,number (room),orange,number
 그래서,kee rae sO,so then,red,particle
 그럽다,kee rop ta,red,particle
-잘하다,chal ha ta,well,orange,adjective
+잘,chal,well,red,adverb
+단어,tan O,word,red,noun
 못하다,mot ha ta,poor (bad),orange,adjective
 돕다,top ta,to help,red,verb
 요즘,yo cheem,recently,red,time

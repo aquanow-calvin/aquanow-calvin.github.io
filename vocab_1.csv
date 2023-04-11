@@ -46,7 +46,6 @@ hangul,romanji,english,severity,type
 선수,son su,(sports) player,green,noun
 사탕,sa ttang,candy,orange,noun
 그림,kee rim,painting,orange,noun
-여동생,yO tong saeng,younger sister,orange,noun
 신문,shin mun,newspaper,orange,noun
 잡지,chap chi,magazine,orange,noun
 방,pang,room,red,noun
@@ -184,7 +183,6 @@ hangul,romanji,english,severity,type
 등산,teeng san,hike (n.),orange,noun
 이야기,i ya ki,story,orange,noun
 아이,a i,kid,orange,noun
-동생,tong saeng,sibling,red,noun
 공원,kong uwon,park,red,noun (place)
 화장품,hwa chang ppum,makeup,green,noun
 술을,sul eel,alcohol,red,noun
@@ -450,3 +448,19 @@ hangul,romanji,english,severity,type
 무섭다,mu sOp ta,to be scared,red,adjective
 기구,ki ku,machine,orange,noun
 쯤,jeem,around,red,particle
+모두,mo tu,every,red,particle
+부모,pu mo,parents,red,family
+되다,twe ta,to become,red,verb
+생물학,saeng mul hak,biology,green,noun
+고등,ko teeng,high (school),green,noun
+아버지(아빠),a pO chi (a ppa),father,red,family
+어머니(어마),O mO ni (O ma),mother,red,family
+누나,nu na,sister (older for m),red,family
+형,hyOng,brother (older for m),red,family
+오빠,o ppa,brother (older for f),red,family
+언니,On ni,sister (older for f),red,family
+여동생,yO tong saeng,sister (younger),red,family
+남동생,nam tong saeng,brother (younger),red,family
+(외)할아버지,hal a pO chi,grandfather (f side) m side,red,family
+(외)할머니,hal mO ni,grandmother (f side) m side,red,family
+역사,yOk sa,history,red,noun

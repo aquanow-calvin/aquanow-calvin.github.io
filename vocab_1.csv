@@ -308,6 +308,10 @@ hangul,romanji,english,severity,type
 달다,tal ta,sweet,red,food
 멀다,mOl ta,far,red,adjective
 길다,kil ta,long,red,adjective
+무겁다,mu kOp ta,red,adjective
+가볍다,ka pyOp ta,red,adjective
+얇다,yalp ta,thin,red,adjective
+두껍다,tu gOp ta,thick,red,adjective
 놀다,nol ta,to play,red,verb
 살다,sal ta,to live* (eso and e is ok),red,verb
 열다,yOl ta,to open,red,verb
@@ -390,7 +394,9 @@ hangul,romanji,english,severity,type
 스노보드,see no po tee,snowboard,red,noun (sports)
 빌리다,pil ri ta,to borrow,red,verb
 지하철,chi ha cchOl,subway,orange,noun
-비싸다,pi sza ta,expensive,orange,adjective
+비싸다,pi sza ta,expensive,red,adjective
+싸다,sza ta,cheap,red,adjective
+짧다,jalp ta,short,red,adjective
 빠르다,ba ree ta,to be fast,red,adjective
 청소하다,cchOng so ha ta,to clean,red,verb
 너무,nO mu,too (negative),red,adverb
@@ -464,3 +470,16 @@ hangul,romanji,english,severity,type
 (외)할아버지,hal a pO chi,grandfather (f side) m side,red,family
 (외)할머니,hal mO ni,grandmother (f side) m side,red,family
 역사,yOk sa,history,red,noun
+바지,pa chi,pants,red,noun (clothes)
+치마,cchi ma,dress,red,noun (clothes)
+코트,kko ttee,coat,red,noun (clothes)
+티셔츠,tti syO cchee,red,noun (clothes)
+와이셔츠,owa i syO cchee,red,noun (clothes)
+구두,ku du,shoes (heels),noun (clothes)
+신발,sin bal,shoes,red,noun (clothes)
+운동화,un tong hwa,sneakers,red,noun (clothes)
+슬리퍼,seel ri pO,slippers,red,noun (clothes)
+얼마,Ol ma,how much,red,particle
+그래요,kee rae yo,orly,red,particle
+더,tO,more,red,adverb
+똑같이,dOk kat i,same,orange,adverb

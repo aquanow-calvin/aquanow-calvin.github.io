@@ -190,7 +190,7 @@ hangul,romanji,english,severity,type
 먼저,mOn chO,first,red,time
 어느,O nee,which,red,particle
 나이,na i,age,green,noun
-보내다,po nae ta,to let go,red,verb
+보내다,po nae ta,to send,red,verb
 어떻,O dOt,how,red,particle
 어때,O dae,how (informal),red,particle
 어땠,O daet,how (past),red,particle
@@ -279,10 +279,10 @@ hangul,romanji,english,severity,type
 시험(을)보다,shi hOm (eel) po ta,to take test,red,verb
 고맙다,ko map ta,to thank,orange,verb
 닫다,tat ta*,to close,red,verb
-말(을)하다,mal (eel) ha ta,to say,red,verb
+말(하다)(씀드리다),mal ha ta,to say,red,verb
 피곤하다,ppi kon ha ta,tired,red,adjective
 운전(을)하다,un chOn (eel) ha ta,to drive,red,verb
-전화(를)하다,chOn hwa (leel) ha ta,to call,red,verb
+전화(하다)(드리다),chOn hwa ha ta,to call,red,verb
 알다,al ta,to know,red,verb
 모르다,mo ree ta,to not know,red,verb
 명,myOng,# people,red,number
@@ -310,7 +310,6 @@ hangul,romanji,english,severity,type
 길다,kil ta,long,red,adjective
 무겁다,mu kOp ta,red,adjective
 가볍다,ka pyOp ta,red,adjective
-얇다,yalp ta,thin,red,adjective
 두껍다,tu gOp ta,thick,red,adjective
 놀다,nol ta,to play,red,verb
 살다,sal ta,to live* (eso and e is ok),red,verb
@@ -321,8 +320,7 @@ hangul,romanji,english,severity,type
 우산,u san,umbrella,red,noun
 짜다,ja ta,salty,red,food
 시다,shi ta,sour,red,food
-주다,chu ta,to give (to addresser),red,verb
-드리다,tee ri ta,to give (to addressee),red,verb
+주(다)(드리다),chu ta,to give,red,verb
 삼겹살,sam kyOp sal,pork belly,red,noun (food)
 개,kae,block,red,food
 판,ppan,piece,red,food
@@ -455,7 +453,7 @@ hangul,romanji,english,severity,type
 무섭다,mu sOp ta,to be scared,red,adjective
 기구,ki ku,machine,orange,noun
 쯤,jeem,around,red,particle
-모두,mo tu,every,red,particle
+모두,mo tu,every (all),red,particle
 부모,pu mo,parents,red,family
 되다,twe ta,to become,red,verb
 생물학,saeng mul hak,biology,green,noun
@@ -484,3 +482,20 @@ hangul,romanji,english,severity,type
 그래요,kee rae yo,orly,red,particle
 더,tO,more,red,adverb
 똑같이,dOk kat i,same,orange,adverb
+장미,chang mi,rose,red,noun
+권,kuwon,books,red,counting
+벌,pOl,clothes,red,counting
+장,chang,ticket,red,counting
+송이,song i,rose/banana,red,counting
+자두,cha tu,pencil,red,counting
+켤레,kkyOl re,shoes,red,counting
+향수,hyang su,perfume,red,noun
+넥타이,nek tta i,necktie,red,noun
+상품권,sang pum kuwon,gift card,red,noun
+화장품,howa chang pum,cosmetics,red,noun
+꽃다발,kot ta pal,bouqet,red,noun
+액세서리,aek se sO ri,accessory,red,noun
+인사(하다)(드리다),in sa ha ta,to say hello,red,noun
+연락(하다)(드리다),yOn rak,to notify,red,noun
+이따가,i da ka,later,red,particle
+선물하다,sOn mul ha ta,to gift,red,verb

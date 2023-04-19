@@ -189,8 +189,8 @@ class App extends Component {
           <tbody>
             <tr>
               <td>
-                <input type="checkbox" id="red" value="red" onChange={this._red} /><label style={{"color": "red"}}>Always used</label>
-                <input type="checkbox" id="orange" value="orange" onChange={this._orange} /><label style={{"color": "orange"}}>Found in book</label>
+                <input type="checkbox" id="red" value="red" onChange={this._red} /><label style={{"color": "red"}}>Needs practice</label>
+                <input type="checkbox" id="orange" value="orange" onChange={this._orange} /><label style={{"color": "orange"}}>Familiar</label>
                 <input type="checkbox" id="green" value="green" onChange={this._green} /><label style={{"color": "green"}}>From Class</label>
               </td>
             </tr>

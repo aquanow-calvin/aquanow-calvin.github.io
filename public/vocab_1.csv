@@ -46,6 +46,7 @@ hangul,romanji,english,severity,type
 선수,son su,(sports) player,green,noun
 사탕,sa ttang,candy,orange,noun
 그림,kee rim,painting,orange,noun
+그리다,kee ri ta,to paint,red,verb
 신문,shin mun,newspaper,orange,noun
 잡지,chap chi,magazine,orange,noun
 방,pang,room,red,noun
@@ -250,7 +251,7 @@ hangul,romanji,english,severity,type
 여덟,yo tOlp,08,red,clock
 아홉,a hOp,09,red,clock
 열,yOl,10,red,clock
-스물,see mul,20,red,clock
+스물 (스무),see mul,20,red,clock
 오전,o chOn,morning (AM),red,clock
 오후,o hu,afternoon (PM),red,clock
 반,pan,half,red,clock
@@ -322,14 +323,15 @@ hangul,romanji,english,severity,type
 시다,shi ta,sour,red,food
 주(다)(드리다),chu ta,to give,red,verb
 삼겹살,sam kyOp sal,pork belly,red,noun (food)
-개,kae,block,red,food
-판,ppan,piece,red,food
-잔,chan,cup,red,food
-줄,chul,roll,red,food
-병,pyOng,bottle,red,food
-그릇,kee reet,bowl,red,food
-마리,ma ri,# animals,red,food
-인분,in pun,serving,red,food
+물건,mul kOn,thing,red,noun
+개,kae,thing (bag),red,counting
+판,ppan,piece,red,counting
+잔,chan,cup,red,counting
+줄,chul,roll,red,counting
+병,pyOng,bottle,red,counting
+그릇,kee reet,bowl,red,counting
+마리,ma ri,# animals,red,counting
+인분,in pun,serving,red,counting
 김밥,kim pap,kimbap,red,noun (food)
 맥주,maek chu,beer,red,noun (food)
 앉다,ant ta,to sit,red,verb
@@ -362,7 +364,7 @@ hangul,romanji,english,severity,type
 끝나다,geet na ta,adjective,red,verb
 일어나다,il O na ta,to get up,red,verb
 요일,yo il,day (of week),red,date
-생일,saeng il,birthday,red,date
+생일 (신),saeng il (shin),birthday,red,date
 크리스마스,kkee ri see ma see,christmas,green,date
 월,uwOl,month,red,date
 일요일,il yo il,0 sunday,red,date
@@ -479,7 +481,7 @@ hangul,romanji,english,severity,type
 운동화,un tong hwa,sneakers,red,noun (clothes)
 슬리퍼,seel ri pO,slippers,red,noun (clothes)
 얼마,Ol ma,how much,red,particle
-그래요,kee rae yo,orly,red,particle
+그래요,kee rae yo,really,red,particle
 더,tO,more,red,adverb
 똑같이,dOk kat i,same,orange,adverb
 장미,chang mi,rose,red,noun
@@ -499,3 +501,14 @@ hangul,romanji,english,severity,type
 연락(하다)(드리다),yOn rak,to notify,red,noun
 이따가,i da ka,later,red,particle
 선물하다,sOn mul ha ta,to gift,red,verb
+연습하다,yOn seep ha ta,to practice,red,verb
+축하하다,chuk ha ha ta,to congratulate,red,verb
+초콜릿,ccho kkol rit,chocolate,red,noun
+고르다,ko ree ta,to pick,red,verb
+풍선,pung sOn,balloon,red,noun
+불다,pul ta,to blow,red,verb
+자르다,cha ree ta,to cut,red,verb
+케이크,kke i kkee,cake,red,noun
+부르다,pu ree ta,to sing,red,verb
+고르다,ko ree ta,to choose,red,verb
+준비하다,chun pi ha ta,to prepare,red,verb

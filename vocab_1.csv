@@ -1,195 +1,195 @@
 hangul,romanji,english,severity,type
-학생,hak saeng,student,red,noun
+학생,hak saeng,student,orange,noun
 기자,ki cha,reporter,red,noun
 의사,eei sa,doctor,red,noun
 가수,ka su,singer,red,noun
-배우,pae u,actor,red,noun
-누구,nu ku,who,red,particle
-선생님,sOng saeng nim,teacher,red,noun
-회사원,hwe sa uwon,office worker,red,noun
-은행원,een haeng uwon,bank worker,red,noun
-간호사,kan ho sa,nurse,red,noun
-요리사,yo ri sa,chef,red,noun
-문,mun,door,red,noun
-창문,cchaeng mun,window,red,noun
-책,cchaek,book,red,noun
-공책,kong cchaek,notebook,red,noun
-책상,cchaek saeng,desk/table,red,noun
+배우,pae u,actor,orange,noun
+누구,nu ku,who,orange,particle
+선생님,sOng saeng nim,teacher,orange,noun
+회사원,hwe sa uwon,office worker,orange,noun
+은행원,een haeng uwon,bank worker,orange,noun
+간호사,kan ho sa,nurse,orange,noun
+요리사,yo ri sa,chef,orange,noun
+문,mun,door,orange,noun
+창문,cchaeng mun,window,orange,noun
+책,cchaek,book,orange,noun
+공책,kong cchaek,notebook,orange,noun
+책상,cchaek saeng,desk/table,orange,noun
 의자,eei cha,chair,red,noun
-칠판,cchil ppan,blackboard,red,noun
-지도,chi to,map,red,noun
-달력,tal ryOk,calendar,red,noun
-시계,shi kye,clock,red,noun
-거울,kO ul,mirror,red,noun
-옷걸이,ot kOl i,coat hanger,red,noun
-컴퓨터,kkOm pyu ttO,computer,red,noun
-텔레비전,ttel re pi chOn,television,red,noun
-필통,ppil ttong,pencil case,red,noun
-연필,yOn ppil,pencil,red,noun
-볼펜,pol ppen,(ball) pen,red,noun
-지우개,chi u kae,eraser,red,noun
-돈,ton,money,red,noun
-지갑,chi kap,wallet,red,noun
-가방,ka pang,bag,red,noun
-휴지,hyu chi,tissue,red,noun
-학생증,hak saeng cheeng,id card,red,noun
-휴대전화,hyu tae chOn hwa,phone,red,noun
+칠판,cchil ppan,blackboard,orange,noun
+지도,chi to,map,orange,noun
+달력,tal ryOk,calendar,orange,noun
+시계,shi kye,clock,orange,noun
+거울,kO ul,mirror,orange,noun
+옷걸이,ot kOl i,coat hanger,orange,noun
+컴퓨터,kkOm pyu ttO,computer,orange,noun
+텔레비전,ttel re pi chOn,television,orange,noun
+필통,ppil ttong,pencil case,orange,noun
+연필,yOn ppil,pencil,orange,noun
+볼펜,pol ppen,(ball) pen,orange,noun
+지우개,chi u kae,eraser,orange,noun
+돈,ton,money,orange,noun
+지갑,chi kap,wallet,orange,noun
+가방,ka pang,bag,orange,noun
+휴지,hyu chi,tissue,orange,noun
+학생증,hak saeng cheeng,id card,orange,noun
+휴대전화,hyu tae chOn hwa,phone,orange,noun
 국적,kuk chOk,nationality,green,noun
 직업,chik Op,job,green,noun
 교수님,kyo su nim,professor,green,noun
-경찰,kyOng cchal,police,orange,noun
+경찰,kyOng cchal,police,green,noun
 물통,mul ttong,water bottle,green,noun
 인형,in hyOng,doll,orange,noun
 안경,an kyOng,glasses,green,noun
-교실,kyo shil,classroom,red,noun (place)
-사진,sa chin,photo,green,noun
+교실,kyo shil,classroom,orange,noun (place)
+사진,sa chin,photo,orange,noun
 선수,son su,(sports) player,green,noun
-사탕,sa ttang,candy,orange,noun
+사탕,sa ttang,candy,green,noun
 그림,kee rim,painting,orange,noun
 그리다,kee ri ta,to paint,red,verb
 신문,shin mun,newspaper,orange,noun
 잡지,chap chi,magazine,orange,noun
-방,pang,room,red,noun
-도서관,to sO kwoan,library,red,noun (place)
-학생회관,hak saeng hwe kwoan,student hall,red,noun (place)
+방,pang,room,orange,noun
+도서관,to sO kwoan,library,orange,noun (place)
+학생회관,hak saeng hwe kwoan,student hall,orange,noun (place)
 서점,sO chom,bookstore,red,noun (place)
-식당,shik tang,restaurant,red,noun (place)
-기숙사,ki suk sa,dormitory,red,noun (place)
-사무실,sa mu shil,office,red,noun (place)
-우체국,u cche kuk,post office,red,noun (place)
-체육관,cche yuk kwoan,gym,red,noun (place)
-편의점,ppyo ni chOm*,convenience store,red,noun (place)
-학교,hak kyo,school,red,noun (place)
-꽃,kot,flower,red,noun
+식당,shik tang,restaurant,orange,noun (place)
+기숙사,ki suk sa,dormitory,orange,noun (place)
+사무실,sa mu shil,office,orange,noun (place)
+우체국,u cche kuk,post office,orange,noun (place)
+체육관,cche yuk kwoan,gym,orange,noun (place)
+편의점,ppyo ni chOm*,convenience store,orange,noun (place)
+학교,hak kyo,school,orange,noun (place)
+꽃,kot,flower,orange,noun
 외교관,uwe kyo kwoan,diplomat,green,noun
-친구,cchin ku,friend,red,noun
-날씨,nal szhi,weather,red,noun
-나라,nal la,country,red,noun
-보다,po ta,to watch,red,verb
-듣다,teet ta,to listen,red,verb
-읽다,irk ta,to read,red,verb
-쓰다,szee ta,to write,red,verb
-사다,sa ta,to buy,red,verb
-입다,ip ta,to wear,red,verb
-먹다,mOk ta,to eat,red,verb
-마시다,ma shi ta,to drink,red,verb
-만나다,man na ta,to meet,red,verb
-배우다,pae u ta, to learn,red,verb
-가르치다,ka ree cchi ta,to teach,red,verb
-기다리다,ki ta ri ta,to wait,red,verb
+친구,cchin ku,friend,orange,noun
+날씨,nal szhi,weather,orange,noun
+나라,nal la,country,orange,noun
+보다,po ta,to watch,orange,verb
+듣다,teet ta,to listen,orange,verb
+읽다,irk ta,to read,orange,verb
+쓰다,szee ta,to write,orange,verb
+사다,sa ta,to buy,orange,verb
+입다,ip ta,to wear,orange,verb
+먹다,mOk ta,to eat,orange,verb
+마시다,ma shi ta,to drink,orange,verb
+만나다,man na ta,to meet,orange,verb
+배우다,pae u ta, to learn,orange,verb
+가르치다,ka ree cchi ta,to teach,orange,verb
+기다리다,ki ta ri ta,to wait,orange,verb
 영화,yOng hwa,movie,orange,noun
-물,mul,water,red,noun
-빵,bang,bread,red,noun
-커피,kkO pi,coffee,red,noun
-하다,ha ta,to do,red,verb
+물,mul,water,orange,noun
+빵,bang,bread,orange,noun
+커피,kkO pi,coffee,orange,noun
+하다,ha ta,to do,orange,verb
 음악,eem ak,music,orange,noun
 꽃집,kot chip,florist (flower house),orange,noun (place)
-집,chip,house,red,noun (place)
-노래방,no rae pang,karaoke (song room),red,noun (place)
-찜질방,jim chil pang,sauna,red,noun (place)
+집,chip,house,orange,noun (place)
+노래방,no rae pang,karaoke (song room),orange,noun (place)
+찜질방,jim chil pang,sauna,orange,noun (place)
 백화점,paek hwa chOm,department store,orange,noun (place)
 빵집,bang chip,bakery (bread house),orange,noun (place)
-피시방,ppi shi pang,pc bang,red,noun (place)
+피시방,ppi shi pang,pc bang,orange,noun (place)
 문구점,mun ku chOm,stationery store,red,noun (place)
-과자,kOwa chaa,snack,red,noun (food)
+과자,kOwa chaa,snack,orange,noun (food)
 침대,cchim tae,bed,orange,noun
 냉장고,naeng chang ko,fridge,orange,noun
-병원,pyOng uwon,hospital,red,noun (place)
-수영장,su yong chang,swimming pool,red,noun (place)
-수영(을)하다,su yOng,swimming,red,verb
-정문,chOng mun,main door,red,noun
+병원,pyOng uwon,hospital,orange,noun (place)
+수영장,su yong chang,swimming pool,orange,noun (place)
+수영(을)하다,su yOng,swimming,orange,verb
+정문,chOng mun,main door,orange,noun
 (_어)학당,hak tang,institute,green,noun (place)
 복사,pok sa,copy,green,noun
-강당,kang tang,auditorium,orange,noun (place)
+강당,kang tang,auditorium,green,noun (place)
 교과서,kyo kOwa so,textbook,orange,noun
-고향,ko hyang,hometown,red,noun (place)
-싶다,shipp ta,to want,red,verb
-산,san,mountain,red,noun (place)
-강,kang,river,red,noun (place)
-호수,ho su,lake,red,noun (place)
-바다,pa ta,ocean,red,noun (place)
-가족,ka chok,family,red,noun
+고향,ko hyang,hometown,orange,noun (place)
+싶다,shipp ta,to want,orange,verb
+산,san,mountain,orange,noun (place)
+강,kang,river,orange,noun (place)
+호수,ho su,lake,orange,noun (place)
+바다,pa ta,ocean,orange,noun (place)
+가족,ka chok,family,orange,noun
 음식,eem shik,food,orange,noun
-오다,o ta,to come,red,verb
+오다,o ta,to come,orange,verb
 쉬다,swi ta,to rest,red,verb
-자다,cha ta, to sleep,red,verb
+자다,cha ta, to sleep,orange,verb
 점수,chOm su,grade (score),green,noun
-겨울,kyO ul,winter,red,time
-여름,yO reem,summer,red,time
-봄,pom,spring,red,time
-가을,ka eel,autumn,red,time
-인기,in ki,popularity,red,noun
+겨울,kyO ul,winter,green,time
+여름,yO reem,summer,green,time
+봄,pom,spring,green,time
+가을,ka eel,autumn,green,time
+인기,in ki,popularity,orange,noun
 차갑다,ccha kap ta,cold (obj),green,adjective
 뜨겁다,gee kOp ta,hot (obj),green,adjective
-넓다,nOlp ta,wide,orange,adjective
+넓다,nOlp ta,wide,red,adjective
 좁다,chop ta,narrow,red,adjective
-가게,ka ke,store,red,noun (place)
+가게,ka ke,store,orange,noun (place)
 조금 (좀),cho keem (chom),little (not very),orange,adverb
-아주,a chu,very (positive),red,adverb
-옷장,ot chang,wardrobe,orange,noun
+아주,a chu,very (positive),orange,adverb
+옷장,ot chang,wardrobe,green,noun
 책장,cchaek chang,bookshelf,green,noun
 신발장,shin pal chang,shoe cabinet,green,noun
-샤워,sya uwo,shower,orange,noun
+샤워,sya uwo,shower,green,noun
 체력 단련실,cche ryok tan ryon shil,fitness room,green,noun (place)
 운동장,un tong chang,playground (stadium),orange,noun (place)
-크다,kkee ta,big,red,adjective
-작다,chak ta,small,red,adjective
-많다,man ta,many,red,adjective
-적다,chOk ta,few,red,adjective
-덥다,tOp ta,hot,red,adjective
-춥다,cchup ta,cold,red,adjective
-좋다,chot ta,good,red,adjective
+크다,kkee ta,big,orange,adjective
+작다,chak ta,small,orange,adjective
+많다,man ta,many,orange,adjective
+적다,chOk ta,few,orange,adjective
+덥다,tOp ta,hot,orange,adjective
+춥다,cchup ta,cold,orange,adjective
+좋다,chot ta,good,orange,adjective
 나쁘다,na bee ta,bad,red,adjective
-조용하다,cho yong ha ta,quiet,red,adjective
-시끄럽다,shi gee rOp ta,noisy,red,adjective
-영어,yOng O,english,red,noun
-공항,kong hang,airport,green,noun (place)
-극장,keek chang,theater,orange,noun (place)
+조용하다,cho yong ha ta,quiet,orange,adjective
+시끄럽다,shi gee rOp ta,noisy,orange,adjective
+영어,yOng O,english,orange,noun
+공항,kong hang,airport,orange,noun (place)
+극장,keek chang,theater,green,noun (place)
 싸우다,sza u ta,to fight,green,verb
 팝콘,ppap kon,popcorn,green,noun
 춤을 추다,chum eel cchu ta,to dance,green,verb
 바나나,pe na na,banana,green,noun
 반,pan,class,green,noun
-게임,ke im,game,red,noun
-카페,kka ppe,cafe,red,noun (place)
-공부(를)하다,kong pu leel ha ta,to study *not a noun,red,verb
-숙제,suk che,homework,red,noun
+게임,ke im,game,orange,noun
+카페,kka ppe,cafe,orange,noun (place)
+공부(를)하다,kong pu leel ha ta,to study *not a noun,orange,verb
+숙제,suk che,homework,orange,noun
 시원하다,shi won ha ta,cool,green,adjective
-복잡하다,pok chap ha ta,crowded,red,adjective
-아름답다,a reem tap ta,beautiful,red,adjective
-예쁘다,yO bee ta,pretty,red,adjective
+복잡하다,pok chap ha ta,crowded,orange,adjective
+아름답다,a reem tap ta,beautiful,orange,adjective
+예쁘다,yO bee ta,pretty,orange,adjective
 바쁘다,pa bee ta,busy,red,adjective
-한가하다,han ka ha ta,free,red,adjective
-더럽다,tO rOp ta,dirty,red,adjective
+한가하다,han ka ha ta,free,orange,adjective
+더럽다,tO rOp ta,dirty,orange,adjective
 내리다,nae ri ta,to get off,red,verb
-깨끗하다,gae geet ha ta,clean,red,adjective
+깨끗하다,gae geet ha ta,clean,orange,adjective
 걷다,kOt ta,to walk,red,verb
 받다,pat ta,to receive*,red,verb
-친절하다,cchin chOl ha ta,kind,red,adjective
-재미있다,chae mi it ta,interesting,red,adjective
-재미없다,chae mi op ta,boring,red,adjective
+친절하다,cchin chOl ha ta,kind,orange,adjective
+재미있다,chae mi it ta,interesting,orange,adjective
+재미없다,chae mi op ta,boring,orange,adjective
 경치,kyOng cchi,scenery,orange,noun
 생활,saeng hwal,life,green,noun
 생선,saeng sOn,fish,orange,noun
-남자,nam cha,male,red,noun
-여자,yO cha,female,red,noun
-식사,shik sa,meal,red,noun
-운동,un tong,exercise,red,noun
-일,il,work,red,noun
-날마다,nal ma ta,everyday,red,time
-아르바이트,a ree pa i ttee,part time job,red,noun
-혼자,hon cha,by myself,red,particle
-밥,pap,rice,red,noun (food)
+남자,nam cha,male,orange,noun
+여자,yO cha,female,orange,noun
+식사,shik sa,meal,orange,noun
+운동,un tong,exercise,orange,noun
+일,il,work,orange,noun
+날마다,nal ma ta,everyday,orange,time
+아르바이트,a ree pa i ttee,part time job,orange,noun
+혼자,hon cha,by myself,orange,particle
+밥,pap,rice,orange,noun (food)
 산책,san cchaek,walk (n.),orange,noun
 등산,teeng san,hike (n.),orange,noun
 이야기,i ya ki,story,orange,noun
 아이,a i,kid,orange,noun
-공원,kong uwon,park,red,noun (place)
+공원,kong uwon,park,orange,noun (place)
 화장품,hwa chang ppum,makeup,green,noun
-술을,sul eel,alcohol,red,noun
+술을,sul eel,alcohol,orange,noun
 전자,chOn cha,before,red,time
 먼저,mOn chO,first,red,time
-어느,O nee,which,red,particle
+어느,O nee,which,orange,particle
 나이,na i,age,green,noun
 보내다,po nae ta,to send,red,verb
 어떻,O dOt,how,red,particle
@@ -201,36 +201,36 @@ hangul,romanji,english,severity,type
 칫솔,cchit sol,toothbrush,green,noun
 치약,cchi yak,toothpaste,green,noun
 얇다,yalp ta,thin,red,adjective
-언제,On che,when,red,particle
-내일,nae il,tomorrow,red,time
+언제,On che,when,orange,particle
+내일,nae il,tomorrow,orange,time
 모레,mo re,day after tomorrow,red,time
 지금,chi keem,now,red,time
-가끔,ka geem,sometimes,green,time
-자주,cha chu,often,red,time
-가다,ka ta,to go,red,verb
-콜라,kkol la,cola,red,noun
+가끔,ka geem,sometimes,red,time
+자주,cha chu,often,orange,time
+가다,ka ta,to go,orange,verb
+콜라,kkol la,cola,orange,noun
 값,kapt,value (money),orange,noun
-왜,wae,why,red,particle
-근처,keen cchO,around,red,particle
-앞,app,front,red,direction
-뒤,twi,behind,red,direction
-아래,arae,under,red,direction
-위,uwi,over,red,direction
-안,an,inside,red,direction
-밖,pag,outside,red,direction
-옆,yOpp,beside,red,direction
-그럼,kee rOm,then,red,particle
+왜,wae,why,orange,particle
+근처,keen cchO,around,orange,particle
+앞,app,front,orange,direction
+뒤,twi,behind,orange,direction
+아래,arae,under,orange,direction
+위,uwi,over,orange,direction
+안,an,inside,orange,direction
+밖,pag,outside,orange,direction
+옆,yOpp,beside,orange,direction
+그럼,kee rOm,then,orange,particle
 그리고,kee ri ko,and,red,particle
-맛있다,mat shit ta,delicious,red,adjective
-맛없다,mat shOp ta,not delicious,red,adjective
+맛있다,mat shit ta,delicious,orange,adjective
+맛없다,mat shOp ta,not delicious,orange,adjective
 싣다,shit ta,to carry,red,verb
 열심히,yOl shim hi,trying hardly,red,adverb
 태권도,tae kuwOn to,taekwondo,red,noun
 몇,myOt,what (counting ie time, ppl, pages),red,particle
 이날,i nal,this day,red,particle
-부터,pu ttO,since (from),red,particle
-까지,ga chi,until (to),red,particle
-보통,po ttong,usually,red,time
+부터,pu ttO,since (from),orange,particle
+까지,ga chi,until (to),orange,particle
+보통,po ttong,usually,orange,time
 일,il,01,red,number
 이,i,02,red,number
 삼,sam,03,red,number
@@ -252,30 +252,30 @@ hangul,romanji,english,severity,type
 아홉,a hOp,09,red,clock
 열,yOl,10,red,clock
 스물 (스무),see mul,20,red,clock
-오전,o chOn,morning (AM),red,clock
-오후,o hu,afternoon (PM),red,clock
+오전,o chOn,morning (AM),orange,clock
+오후,o hu,afternoon (PM),orange,clock
 반,pan,half,red,clock
 쪽,jok,page,red,number
 대화(를)하다,tae hwa (leel) ha ta,to converse,orange,verb
-분,pun,minute,red,clock
-시,shi,hour,red,clock
-저분,chO pun,person (that),red,noun
-이것,i kOt,this,red,particle
-그것,kee kOt,that (addressee close),red,particle
-저것,chO kOt,that (addressee far),red,particle
-여기,yO ki,here,red,particle
-거기,kO ki,there (addressee close),red,particle
-저기,chO ki,there (addressee far),red,particle
+분,pun,minute,orange,clock
+시,shi,hour,orange,clock
+저분,chO pun,person (that),orange,noun
+이것,i kOt,this,orange,particle
+그것,kee kOt,that (addressee close),orange,particle
+저것,chO kOt,that (addressee far),orange,particle
+여기,yO ki,here,orange,particle
+거기,kO ki,there (addressee close),orange,particle
+저기,chO ki,there (addressee far),orange,particle
 하늘,ha neel,sky,green,noun
 구름,ku reem,cloud,green,noun
 공기,kong ki,air,green,noun
 길,kil,road,green,noun
 고기,ko ki,meat,green,noun
-아침,a cchim,morning (n. breakfast),red,clock
-점심,chOm shim,afternoon (n. lunch),red,clock
-저녁,chO nyOk,evening (n. dinner),red,clock
+아침,a cchim,morning (n. breakfast),orange,clock
+점심,chOm shim,afternoon (n. lunch),orange,clock
+저녁,chO nyOk,evening (n. dinner),orange,clock
 복습(을)하다,pok sheep (eel) ha ta,to review,red,verb
-시험,shi hOm,test,red,noun
+시험,shi hOm,test,orange,noun
 예습(을)하다,e sheep (eel) ha ta,to study ahead,red,verb
 시험(을)보다,shi hOm (eel) po ta,to take test,red,verb
 고맙다,ko map ta,to thank,orange,verb
@@ -287,42 +287,42 @@ hangul,romanji,english,severity,type
 알다,al ta,to know,red,verb
 모르다,mo ree ta,to not know,red,verb
 명,myOng,# people,red,number
-무슨,mu sheen,what (kind),red,particle
-좋아하다,cho a ha ta,to like,red,verb
+무슨,mu sheen,what (kind),orange,particle
+좋아하다,cho a ha ta,to like,orange,verb
 맵다,maep ta,spicy,red,adjective
-만들다,man teel ta,to make,red,verb
-우리하다,u ri ha ta,to make,red,verb
-냉면,naeng myOn,cold noodle,red,noun (food)
-불고기,pul ko ki,bulgogi,red,noun (food)
-비빔밥,pi pim pap,bibimbap,red,noun (food)
-삼계탕,sam kye ttang,samegyetang,red,noun (food)
-우동,u tong,udon,red,noun (food)
+만들다,man teel ta,to make,orange,verb
+우리하다,u ri ha ta,to make,green,verb
+냉면,naeng myOn,cold noodle,orange,noun (food)
+불고기,pul ko ki,bulgogi,orange,noun (food)
+비빔밥,pi pim pap,bibimbap,orange,noun (food)
+삼계탕,sam kye ttang,samegyetang,orange,noun (food)
+우동,u tong,udon,orange,noun (food)
 초밥,ccho pap,sushi,orange,noun (food)
 짬뽕,jam bong,champon,orange,noun (food)
 자장면,cha chang myon,noodles,orange,noun (food)
-피자,ppi cha,pizza,red,noun (food)
-샌드위치,saen tee uwi cchi,sandwich,red,noun (food)
-딸기,dal ki,strawberry,red,noun (food)
-사과,sa kOwa,apple,red,noun (food)
+피자,ppi cha,pizza,orange,noun (food)
+샌드위치,saen tee uwi cchi,sandwich,orange,noun (food)
+딸기,dal ki,strawberry,orange,noun (food)
+사과,sa kOwa,apple,orange,noun (food)
 녹차,nok ccha,green tea,red,noun (food)
 유자차,yu cha ccha,yuzu tea,red,noun (food)
 달다,tal ta,sweet,red,food
 멀다,mOl ta,far,red,adjective
 길다,kil ta,long,red,adjective
-무겁다,mu kOp ta,red,adjective
-가볍다,ka pyOp ta,red,adjective
+무겁다,mu kOp ta,heavy,red,adjective
+가볍다,ka pyOp ta,light,red,adjective
 두껍다,tu gOp ta,thick,red,adjective
-놀다,nol ta,to play,red,verb
+놀다,nol ta,to play,orange,verb
 살다,sal ta,to live* (eso and e is ok),red,verb
 열다,yOl ta,to open,red,verb
 배가고프다,pae (ka*) ko ppee ta,hungry,red,adjective
 시키다,shi kki ta,to command,red,verb
-주문하다,chu mun ha ta,to order (food),red,verb
+주문하다,chu mun ha ta,to order (food),green,verb
 우산,u san,umbrella,red,noun
 짜다,ja ta,salty,red,food
 시다,shi ta,sour,red,food
 주(다)(드리다),chu ta,to give,red,verb
-삼겹살,sam kyOp sal,pork belly,red,noun (food)
+삼겹살,sam kyOp sal,pork belly,orange,noun (food)
 물건,mul kOn,thing,red,noun
 개,kae,thing (bag),red,counting
 판,ppan,piece,red,counting
@@ -333,28 +333,28 @@ hangul,romanji,english,severity,type
 마리,ma ri,# animals,red,counting
 인분,in pun,serving,red,counting
 김밥,kim pap,kimbap,red,noun (food)
-맥주,maek chu,beer,red,noun (food)
+맥주,maek chu,beer,orange,noun (food)
 앉다,ant ta,to sit,red,verb
-어디,O di,where,red,particle
-오늘,o neel,today,red,time
+어디,O di,where,orange,particle
+오늘,o neel,today,orange,time
 며칠,myO cchil,what (date),red,particle
 몇월,myOt uwOl,what (month),red,particle
-어제,O che,yesterday,red,time
+어제,O che,yesterday,orange,time
 그제,kee che,day before yesterday,red,time
-주말,chu mal,weekend,red,clock
+주말,chu mal,weekend,orange,clock
 지난,chi nan,last (time/ week),red,clock
 이번,i pOn,this (time/ week),red,clock
 다음,ta eem,next (time/ week),red,clock
-다다음,ta eem,next next (time/ week),red,clock
-올해,ol hae,this year,red,clock
+다다음,ta eem,next next (time/ week),green,clock
+올해,ol hae,this year,green,clock
 금년,keem nyOn,this year,red,clock
 작년,chak nyOn,last year,red,clock
 내년,nae nyOn,next year,red,clock
 주중,chu chuong,weekday,red,clock
-평일,pyOng il,weekday,red,clock
+평일,pyOng il,weekday,green,clock
 시간,shi kan,time,red,clock
-있다,it ta,to be,red,verb
-없다,op ta,to not be,red,verb
+있다,it ta,to be,orange,verb
+없다,op ta,to not be,orange,verb
 층,cheeng,floor,red,number
 수업,su Op,lesson,orange,noun
 시작하다,shi chak ha ta,to start,orange,verb
@@ -378,7 +378,7 @@ hangul,romanji,english,severity,type
 웃다,ut ta,to laugh,red,verb
 닦다,tag ta,to brush,red,verb
 세수하다,se su ha ta,to wash face,red,verb
-이,i,teeth,red,noun
+이,i,teeth,orange,noun
 묻다,mut ta,to ask,red,verb
 힘들다,him teel ta,exhausting,red,adjective
 (그렇)지만,(kee rOt*) chi man,but,red,particle
@@ -394,17 +394,17 @@ hangul,romanji,english,severity,type
 스노보드,see no po tee,snowboard,red,noun (sports)
 빌리다,pil ri ta,to borrow,red,verb
 지하철,chi ha cchOl,subway,orange,noun
-비싸다,pi sza ta,expensive,red,adjective
-싸다,sza ta,cheap,red,adjective
+비싸다,pi sza ta,expensive,orange,adjective
+싸다,sza ta,cheap,orange,adjective
 짧다,jalp ta,short,red,adjective
 빠르다,ba ree ta,to be fast,red,adjective
 청소하다,cchOng so ha ta,to clean,red,verb
 너무,nO mu,too (negative),red,adverb
-많이,man i,many,red,adverb
+많이,man i,many,orange,adverb
 여행하다,yo haeng ha ta,to travel,red,verb
 빨래하다,bal rae ha ta,to laundry,red,verb
-쇼핑하다,syo pping ha ta,to shop,red,verb
-데이트하다,te i ttee ha ta,to date,red,verb
+쇼핑하다,syo pping ha ta,to shop,orange,verb
+데이트하다,te i ttee ha ta,to date,orange,verb
 쉽다,swip ta,easy,red,adjective
 어렵다,o ryOp ta,difficult (technical),red,adjective
 반갑다,pan kap ta,nice to meet,red,adjective
@@ -418,16 +418,15 @@ hangul,romanji,english,severity,type
 일찍,il jik,early,red,adverb
 늦게,neet ke,late,red,time
 늦게,neet ke,late,red,adverb
-도와주다,to wa chu ta,to help,red
-과일,kOwa il,fruit,red,noun
-타다,tta ta,to ride,red,verb
+과일,kOwa il,fruit,orange,noun
+타다,tta ta,to ride,orange,verb
 버스,pO see,bus,orange,noun
 여러분,yO rO pun,everyone,orange,noun
 호,ho,number (room),orange,number
 그래서,kee rae sO,so then,red,particle
 그럽다,kee rop ta,red,particle
-잘,chal,well,red,adverb
-잘다,chal ta,to do well,red,verb
+잘,chal,well,orange,adverb
+잘다,chal ta,to do well,orange,verb
 단어,tan O,word,red,noun
 못하다,mot ha ta,poor (bad),orange,adjective
 돕다,top ta,to help,red,verb
@@ -436,16 +435,15 @@ hangul,romanji,english,severity,type
 아프다,a pee ta,sick,red,adjective
 오래,o rae,long time,red,time
 화장실,howa chang sil,restroom,red,noun (place)
-정말,chOng mal,forreal,red,particle
+정말,chOng mal,really,red,particle
 비가 오다,pi ka o ta,raining,red,verb
 손님,son nim,customer,red,noun
 가깝다,ka gap ta,nearby,red,adjective
-콘서트,kkon sO ttee,concert,red,noun
+콘서트,kkon sO ttee,concert,orange,noun
 잘못,chal mot,wrong,orange,particle
 예매하다,ye mae ha ta,to reserve (ticket),red,verb
 예약하다,ye yak ha ta,to reserve (appointment),red,verb
 천천히,chOn chOn hi,slowly,red,adverb
-빠르,ba ree,fast,red,adverb
 표,pyo,ticket,red,noun
 심심하다,shim shim ha ta,to be bored,red,adjective
 글쎄요,keel sze yo,ummm well,red,particle
@@ -453,7 +451,7 @@ hangul,romanji,english,severity,type
 미술관,mi sul kwoan,art gallery,red,noun (place)
 박물관,pak mul kwoan,museum,red,noun (place)
 무섭다,mu sOp ta,to be scared,red,adjective
-기구,ki ku,machine,orange,noun
+기구,ki ku,machine,red,noun
 쯤,jeem,around,red,particle
 모두,mo tu,every (all),red,particle
 부모,pu mo,parents,red,family
@@ -483,7 +481,7 @@ hangul,romanji,english,severity,type
 얼마,Ol ma,how much,red,particle
 그래요,kee rae yo,really,red,particle
 더,tO,more,red,adverb
-똑같이,dOk kat i,same,orange,adverb
+똑같이,dOk kat i,same,green,adverb
 장미,chang mi,rose,red,noun
 권,kuwon,books,red,counting
 벌,pOl,clothes,red,counting

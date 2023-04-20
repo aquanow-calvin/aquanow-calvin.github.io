@@ -357,11 +357,13 @@ hangul,romanji,english,severity,type
 없다,op ta,to not be,orange,verb
 층,cheeng,floor,red,number
 수업,su Op,lesson,orange,noun
-시작하다,shi chak ha ta,to start,orange,verb
+시작다,shi chak ta,start,red,adjective
+시작하다,shi chak ha ta,to start,red,verb
 약속,yak sok,appointment (promise),red,noun
 자전거,cha chOn kO,bicycle,red,noun
 지키다,chi kki ta,to keep,red,noun
-끝나다,geet na ta,adjective,red,verb
+끝나다,geet na ta,end,red,adjective
+끝나하다,geet na ha ta,to end,red,verb
 일어나다,il O na ta,to get up,red,verb
 요일,yo il,day (of week),red,date
 생일 (신),saeng il (shin),birthday,red,date

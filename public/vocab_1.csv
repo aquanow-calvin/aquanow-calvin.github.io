@@ -124,7 +124,7 @@ hangul,romanji,english,severity,type
 넓다,nOlp ta,wide,red,adjective
 좁다,chop ta,narrow,red,adjective
 가게,ka ke,store,orange,noun (place)
-조금 (좀),cho keem (chom),little (not very),orange,adverb
+조금 (좀),cho keem (chom),little (not very) or PLEASE,orange,adverb
 아주,a chu,very (positive),orange,adverb
 옷장,ot chang,wardrobe,green,noun
 책장,cchaek chang,bookshelf,green,noun
@@ -231,6 +231,9 @@ hangul,romanji,english,severity,type
 부터,pu ttO,since (from),orange,particle
 까지,ga chi,until (to),orange,particle
 보통,po ttong,usually,orange,time
+잠깐만여,cham gan man yO,wait a moment,red,particle
+번호,bOn ho,number,red,noun
+공,kOng,00,red,number
 일,il,01,red,number
 이,i,02,red,number
 삼,sam,03,red,number
@@ -252,8 +255,8 @@ hangul,romanji,english,severity,type
 아홉,a hOp,09,red,clock
 열,yOl,10,red,clock
 스물 (스무),see mul,20,red,clock
-오전,o chOn,morning (AM),orange,clock
-오후,o hu,afternoon (PM),orange,clock
+오전,o chOn,morning (AM),red,clock
+오후,o hu,afternoon (PM),red,clock
 반,pan,half,red,clock
 쪽,jok,page,red,number
 대화(를)하다,tae hwa (leel) ha ta,to converse,orange,verb
@@ -357,11 +360,13 @@ hangul,romanji,english,severity,type
 없다,op ta,to not be,orange,verb
 층,cheeng,floor,red,number
 수업,su Op,lesson,orange,noun
-시작하다,shi chak ha ta,to start,orange,verb
+시작다,shi chak ta,start,red,adjective
+시작하다,shi chak ha ta,to start,red,verb
 약속,yak sok,appointment (promise),red,noun
 자전거,cha chOn kO,bicycle,red,noun
 지키다,chi kki ta,to keep,red,noun
-끝나다,geet na ta,adjective,red,verb
+끝나다,geet na ta,end,red,adjective
+끝나하다,geet na ha ta,to end,red,verb
 일어나다,il O na ta,to get up,red,verb
 요일,yo il,day (of week),red,date
 생일 (신),saeng il (shin),birthday,red,date
@@ -398,9 +403,10 @@ hangul,romanji,english,severity,type
 싸다,sza ta,cheap,orange,adjective
 짧다,jalp ta,short,red,adjective
 빠르다,ba ree ta,to be fast,red,adjective
+빨리,ba ri,fast,red,adverb
 청소하다,cchOng so ha ta,to clean,red,verb
 너무,nO mu,too (negative),red,adverb
-많이,man i,many,orange,adverb
+많이,man i,many,red,adverb
 여행하다,yo haeng ha ta,to travel,red,verb
 빨래하다,bal rae ha ta,to laundry,red,verb
 쇼핑하다,syo pping ha ta,to shop,orange,verb
@@ -511,3 +517,6 @@ hangul,romanji,english,severity,type
 고르다,ko ree ta,to choose,red,verb
 준비하다,chun pi ha ta,to prepare,red,verb
 구경하다,ku kyOng ha ta,to sightsee,red,verb
+매일,mae il,everyday,red,clock
+설명하다,sOl myOng ha ta,to explain,green,verb
+취미,cchuwi mi,hobby,red,noun

@@ -286,7 +286,6 @@ hangul,romanji,english,severity,type
 말(하다)(씀드리다),mal ha ta,to say,red,verb
 피곤하다,ppi kon ha ta,tired,red,adjective
 운전(을)하다,un chOn (eel) ha ta,to drive,red,verb
-전화(하다)(드리다),chOn hwa ha ta,to call,red,verb
 알다,al ta,to know,red,verb
 모르다,mo ree ta,to not know,red,verb
 명,myOng,# people,red,number
@@ -520,3 +519,18 @@ hangul,romanji,english,severity,type
 매일,mae il,everyday,red,clock
 설명하다,sOl myOng ha ta,to explain,green,verb
 취미,cchuwi mi,hobby,red,noun
+괜찮,koaen cchan,ok,red,particle
+중,chung,middle,red,particle
+장소,chang so,place,red,noun
+곳,kot,place,red,noun
+것,kOt,thing,red,noun
+전화(하다)(드리다),chOn howa ha ta,to have a call,red,phone
+전화를 걸다,chOn howa leel kOl ta,to call (dial),red,phone
+전화가 오다,chOn howa ka o ta,call ringing,red,phone
+전화를 받다,chOn howa leel pat ta,to receive call,red,phone
+통화 중이다,ttung howa chung i ta,line busy,red,phone
+전화를 바꾸다,chOn howa leel pa gu ta,to pass call,red,phone
+전화를 끊다,chOn howa leel geen ta,to end call,red,phone
+문자메시지를 보내다,mun cha me si chi leel po nae ta,to send message,red,phone
+문자메시지를 받다,mun cha me si chi leel pat ta,to receive message,red,phone
+파티,ppa tti,party,red,noun

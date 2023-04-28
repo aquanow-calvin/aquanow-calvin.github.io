@@ -91,7 +91,7 @@ hangul,romanji,english,severity,type
 빵집,bang chip,bakery (bread house),orange,noun (place)
 피시방,ppi shi pang,pc bang,orange,noun (place)
 문구점,mun ku chOm,stationery store,red,noun (place)
-과자,kOwa chaa,snack,orange,noun (food)
+과자,kOwa chaa,snack,red,noun (food)
 침대,cchim tae,bed,orange,noun
 냉장고,naeng chang ko,fridge,orange,noun
 병원,pyOng uwon,hospital,orange,noun (place)
@@ -143,7 +143,6 @@ hangul,romanji,english,severity,type
 조용하다,cho yong ha ta,quiet,orange,adjective
 시끄럽다,shi gee rOp ta,noisy,orange,adjective
 영어,yOng O,english,orange,noun
-공항,kong hang,airport,orange,noun (place)
 극장,keek chang,theater,green,noun (place)
 싸우다,sza u ta,to fight,green,verb
 팝콘,ppap kon,popcorn,green,noun
@@ -176,7 +175,6 @@ hangul,romanji,english,severity,type
 식사,shik sa,meal,orange,noun
 운동,un tong,exercise,orange,noun
 일,il,work,orange,noun
-날마다,nal ma ta,everyday,orange,time
 아르바이트,a ree pa i ttee,part time job,orange,noun
 혼자,hon cha,by myself,orange,particle
 밥,pap,rice,orange,noun (food)
@@ -305,7 +303,7 @@ hangul,romanji,english,severity,type
 피자,ppi cha,pizza,orange,noun (food)
 샌드위치,saen tee uwi cchi,sandwich,orange,noun (food)
 딸기,dal ki,strawberry,orange,noun (food)
-사과,sa kOwa,apple,orange,noun (food)
+사과,sa kOwa,apple,red,noun (food)
 녹차,nok ccha,green tea,red,noun (food)
 유자차,yu cha ccha,yuzu tea,red,noun (food)
 달다,tal ta,sweet,red,food
@@ -362,7 +360,6 @@ hangul,romanji,english,severity,type
 시작다,shi chak ta,start,red,adjective
 시작하다,shi chak ha ta,to start,red,verb
 약속,yak sok,appointment (promise),red,noun
-자전거,cha chOn kO,bicycle,red,noun
 지키다,chi kki ta,to keep,red,noun
 끝나다,geet na ta,end,red,adjective
 끝나하다,geet na ha ta,to end,red,verb
@@ -397,7 +394,6 @@ hangul,romanji,english,severity,type
 스케이트,see kke i ttee,skate,red,noun (sports)
 스노보드,see no po tee,snowboard,red,noun (sports)
 빌리다,pil ri ta,to borrow,red,verb
-지하철,chi ha cchOl,subway,orange,noun
 비싸다,pi sza ta,expensive,orange,adjective
 싸다,sza ta,cheap,orange,adjective
 짧다,jalp ta,short,red,adjective
@@ -425,7 +421,6 @@ hangul,romanji,english,severity,type
 늦게,neet ke,late,red,adverb
 과일,kOwa il,fruit,orange,noun
 타다,tta ta,to ride,orange,verb
-버스,pO see,bus,orange,noun
 여러분,yO rO pun,everyone,orange,noun
 호,ho,number (room),orange,number
 그래서,kee rae sO,so then,red,particle
@@ -484,6 +479,7 @@ hangul,romanji,english,severity,type
 운동화,un tong hwa,sneakers,red,noun (clothes)
 슬리퍼,seel ri pO,slippers,red,noun (clothes)
 얼마,Ol ma,how much,red,particle
+얼마나,Ol ma na,how long,red,particle
 그래요,kee rae yo,really,red,particle
 더,tO,more,red,adverb
 똑같이,dOk kat i,same,green,adverb
@@ -534,3 +530,43 @@ hangul,romanji,english,severity,type
 문자메시지를 보내다,mun cha me si chi leel po nae ta,to send message,red,phone
 문자메시지를 받다,mun cha me si chi leel pat ta,to receive message,red,phone
 파티,ppa tti,party,red,noun
+_걸리다,kOl ri ta,to take _ amount of time,red,verb
+편하다,pyOn ha ta,to be comfortable,red,adjective
+지하철,chi ha cchOl,subway,red,transport
+배,pae,ship,red,transport
+기차,ki ccha,train,red,transport
+버스,pO see,bus,red,transport
+택시,ttaek shi,taxi,red,transport
+자전거,cha chOn kO,bicycle,red,transport
+오토바이,o tto pa i,motorbike,red,transport
+고속버스,ko sok pO see,express bus,red,transport
+공항버스,kong hang pO see,airport bus,red,transport
+포크,po kkee,fork,orange,utensils
+칼,kkal,knife,orange,utensils
+숟가락,sut ka rak,spoon,orange,utensils
+젓가락,chOt ka rak,chopsticks,orange,utensils
+손,son,hand,orange,utensils
+어떻게,O dO ke,how to?,red,particle
+호선,ho sOn,(#) line,red,transport
+노선표,no sOn pyo,subway map,orange,noun
+역,yOk,station,red,transport
+공항,kong hang,airport,red,transport
+터미널,ttO mi nOl,terminal,red,transport
+정류장,chOng ryu chang,route (stop),red,transport
+갈아타다,kal a tta ta,to transfer,red,verb
+도착하다,to cchak ha ta,to arrive,red,verb
+출발하다,cchul pal ha ta,to depart,red,verb
+(날)마다,ma ta,every (time, day),red,time
+다르다,ta ree ta,different,red,adjective
+서,chO,hey,red,particle
+실례합니다(지만),sil re hamida (chi man),excuse me,red,particle
+약국,yak kuk,pharmacy,orange,noun (place)
+약,yak,medicine,orange,noun
+미터,mi ttO,meter,red,direction
+(센티)미터,sen tti mi ttO,centimeter,red,direction
+(킬로)미터,kkil ro mi ttO,kilometer,red,direction
+(사)거리,sa kO ri,(4-way) intersection,red,direction
+똑바로,dok pa ro,straight,red,direction
+왼쪽,owen jok,left,red,direction
+오른쪽,o reen jok,right,red,direction
+(이/그/저)쪽,this that thaaaat jok,side,red,direction

@@ -190,9 +190,7 @@ hangul,romanji,english,severity,type
 어느,O nee,which,orange,particle
 나이,na i,age,green,noun
 보내다,po nae ta,to send,red,verb
-어떻,O dOt,how,red,particle
-어때,O dae,how (informal),red,particle
-어땠,O daet,how (past),red,particle
+어떻다,O dOt,how,red,particle
 무엇 (뭐),mu Ot (mu Ot TO muwO),what,red,particle
 무엇을 (뭘),mu Ot (mu Ot sheel TO muwOl),what (action),red,particle
 몇시,myOt shi,what (time),red,particle
@@ -459,7 +457,7 @@ hangul,romanji,english,severity,type
 생물학,saeng mul hak,biology,green,noun
 고등,ko teeng,high (school),green,noun
 아버지(아빠),a pO chi (a ppa),father,red,family
-어머니(어마),O mO ni (O ma),mother,red,family
+어머니(엄마),O mO ni (O ma),mother,red,family
 누나,nu na,sister (older for m),red,family
 형,hyOng,brother (older for m),red,family
 오빠,o ppa,brother (older for f),red,family
@@ -570,3 +568,16 @@ _걸리다,kOl ri ta,to take _ amount of time,red,verb
 왼쪽,owen jok,left,red,direction
 오른쪽,o reen jok,right,red,direction
 (이/그/저)쪽,this that thaaaat jok,side,red,direction
+놀이 공원,nol i kong uwon,amusement park,red,noun (place)
+보이다,po i ta,to be visible,red,verb
+건너편,kOn nO pyOn,other side,red,direction
+횡단보도,howeng tan po to,crosswalk,red,noun
+건너다,kOn nO ta,to cross,red,verb
+올라가(오)다,o ra ka ta,to ascend,red,verb
+내려가(오)다,nae ryO ka ta,to descend,red,verb
+육교,yuk kyo,overpass,red,noun
+지하도,chi ha to,underpass,red,noun
+들어가(오)다,teel O ka ta,to enter,red,verb
+나가(오)다,na ka ta,to exit,red,verb
+출구,chul ku,exit,red,noun
+신호등,shin ho teeng,traffic light,green,noun

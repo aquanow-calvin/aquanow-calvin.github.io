@@ -434,7 +434,6 @@ hangul,romanji,english,severity,type
 오래,o rae,long time,red,time
 화장실,howa chang sil,restroom,red,noun (place)
 정말,chOng mal,really,red,particle
-비가 오다,pi ka o ta,raining,red,verb
 손님,son nim,customer,red,noun
 가깝다,ka gap ta,nearby,red,adjective
 콘서트,kkon sO ttee,concert,orange,noun
@@ -581,3 +580,15 @@ _걸리다,kOl ri ta,to take _ amount of time,red,verb
 나가(오)다,na ka ta,to exit,red,verb
 출구,chul ku,exit,red,noun
 신호등,shin ho teeng,traffic light,green,noun
+일기예보,il ki ye po,weather forecast,red,noun
+가지오다,ka chi o ta,to bring,red,verb
+우산을 쓰다,u san eel see ta,to use umbrella,red,verb
+맑다,malk ta,clear (sunny),red,adjective
+흐리다,hee ri ta,cloudy,red,adjective
+눈이 오다,nun i o ta,snow is coming,red,verb
+바람이 불다,pa ram i pul ta,wind is blowing,red,verb
+비가 오다,pi ka o ta,rain is coming,red,verb
+따뜻하다,dadeet ha ta,warm,red,adjective
+선선하다,sOn sOn ha ta,cool,red,adjective
+쌀쌀하다,szal szal ha ta,chilly,red,adjective
+나무,na mu,tree,green,noun

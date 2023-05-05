@@ -114,10 +114,10 @@ hangul,romanji,english,severity,type
 쉬다,swi ta,to rest,red,verb
 자다,cha ta, to sleep,orange,verb
 점수,chOm su,grade (score),green,noun
-겨울,kyO ul,winter,green,time
-여름,yO reem,summer,green,time
-봄,pom,spring,green,time
-가을,ka eel,autumn,green,time
+겨울,kyO ul,winter,red,time
+여름,yO reem,summer,red,time
+봄,pom,spring,red,time
+가을,ka eel,autumn,red,time
 인기,in ki,popularity,orange,noun
 차갑다,ccha kap ta,cold (obj),green,adjective
 뜨겁다,gee kOp ta,hot (obj),green,adjective
@@ -592,3 +592,11 @@ _걸리다,kOl ri ta,to take _ amount of time,red,verb
 선선하다,sOn sOn ha ta,cool,red,adjective
 쌀쌀하다,szal szal ha ta,chilly,red,adjective
 나무,na mu,tree,green,noun
+소풍,so pung,picnic,red,noun
+구경하다,ku kyong ha ta,to view,red,verb
+피다,pi ta,to bloom,red,verb
+계절,kye chOl,season,red,noun
+싸움하다,sza eem ha ta,to fight,red,verb
+단풍,tan pung,maple,red,noun
+해수육장,hae su yuk chang,swimming area,red,noun (place)
+치다,cchi ta,to hit,red,verb

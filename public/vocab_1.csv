@@ -163,7 +163,7 @@ hangul,romanji,english,severity,type
 내리다,nae ri ta,to get off,red,verb
 깨끗하다,gae geet ha ta,clean,orange,adjective
 걷다,kOt ta,to walk,red,verb
-받다,pat ta,to receive*,red,verb
+받다,pat ta,to receive*,orange,verb
 친절하다,cchin chOl ha ta,kind,red,adjective
 재미있다,chae mi it ta,interesting,orange,adjective
 재미없다,chae mi op ta,boring,orange,adjective
@@ -278,11 +278,11 @@ hangul,romanji,english,severity,type
 예습(을)하다,e sheep (eel) ha ta,to study ahead,red,verb
 시험(을)보다,shi hOm (eel) po ta,to take test,red,verb
 고맙다,ko map ta,to thank,orange,verb
-닫다,tat ta*,to close,red,verb
+닫다,tat ta*,to close,orange,verb
 말(하다)(씀드리다),mal ha ta,to say,red,verb
 피곤하다,ppi kon ha ta,tired,red,adjective
 운전(을)하다,un chOn (eel) ha ta,to drive,red,verb
-알다,al ta,to know,red,verb
+알다,al ta,to know,orange,verb
 모르다,mo ree ta,to not know,red,verb
 명,myOng,# people,red,number
 무슨,mu sheen,what (kind),orange,particle
@@ -293,7 +293,7 @@ hangul,romanji,english,severity,type
 냉면,naeng myOn,cold noodle,orange,noun (food)
 불고기,pul ko ki,bulgogi,orange,noun (food)
 비빔밥,pi pim pap,bibimbap,orange,noun (food)
-삼계탕,sam kye ttang,samegyetang,orange,noun (food)
+삼계탕,sam kye ttang,samgyetang,orange,noun (food)
 우동,u tong,udon,orange,noun (food)
 초밥,ccho pap,sushi,orange,noun (food)
 짬뽕,jam bong,champon,orange,noun (food)
@@ -401,7 +401,7 @@ hangul,romanji,english,severity,type
 너무,nO mu,too (negative),red,adverb
 많이,man i,many,red,adverb
 여행하다,yo haeng ha ta,to travel,red,verb
-빨래하다,bal rae ha ta,to laundry,red,verb
+빨래하다,bal rae ha ta,to laundry,orange,verb
 쇼핑하다,syo pping ha ta,to shop,orange,verb
 데이트하다,te i ttee ha ta,to date,orange,verb
 쉽다,swip ta,easy,red,adjective
@@ -432,6 +432,7 @@ hangul,romanji,english,severity,type
 곱다,kop ta,pretty,red,adjective
 아프다,a pee ta,sick,red,adjective
 오래,o rae,long time,red,time
+비행기,pi haeng ki,plane,red,transport
 화장실,howa chang sil,restroom,red,noun (place)
 정말,chOng mal,really,red,particle
 손님,son nim,customer,red,noun
@@ -469,9 +470,9 @@ hangul,romanji,english,severity,type
 바지,pa chi,pants,red,noun (clothes)
 치마,cchi ma,dress,red,noun (clothes)
 코트,kko ttee,coat,red,noun (clothes)
-티셔츠,tti syO cchee,red,noun (clothes)
-와이셔츠,owa i syO cchee,red,noun (clothes)
-구두,ku du,shoes (heels),noun (clothes)
+티셔츠,tti syO cchee,t shirt,red,noun (clothes)
+와이셔츠,owa i syO cchee,orange,white shirt,noun (clothes)
+구두,ku du,shoes (heels),red,noun (clothes)
 신발,sin bal,shoes,red,noun (clothes)
 운동화,un tong hwa,sneakers,red,noun (clothes)
 슬리퍼,seel ri pO,slippers,red,noun (clothes)
@@ -500,10 +501,9 @@ hangul,romanji,english,severity,type
 연습하다,yOn seep ha ta,to practice,red,verb
 축하하다,chuk ha ha ta,to congratulate,red,verb
 초콜릿,ccho kkol rit,chocolate,red,noun
-고르다,ko ree ta,to pick,red,verb
 풍선,pung sOn,balloon,red,noun
 불다,pul ta,to blow,red,verb
-자르다,cha ree ta,to cut,red,verb
+자르다,cha ree ta,to cut,orange,verb
 케이크,kke i kkee,cake,red,noun
 부르다,pu ree ta,to sing,red,verb
 고르다,ko ree ta,to choose,red,verb
@@ -593,7 +593,6 @@ _걸리다,kOl ri ta,to take _ amount of time,red,verb
 쌀쌀하다,szal szal ha ta,chilly,red,adjective
 나무,na mu,tree,green,noun
 소풍,so pung,picnic,red,noun
-구경하다,ku kyong ha ta,to view,red,verb
 피다,pi ta,to bloom,red,verb
 계절,kye chOl,season,red,noun
 싸움하다,sza eem ha ta,to fight,red,verb

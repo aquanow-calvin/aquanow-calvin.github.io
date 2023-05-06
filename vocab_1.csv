@@ -5,7 +5,7 @@ hangul,romanji,english,severity,type
 가수,ka su,singer,red,noun
 배우,pae u,actor,orange,noun
 누구,nu ku,who,orange,particle
-선생님,sOng saeng nim,teacher,orange,noun
+선생p,sOng saeng nim,teacher,orange,noun
 회사원,hwe sa uwon,office worker,orange,noun
 은행원,een haeng uwon,bank worker,orange,noun
 간호사,kan ho sa,nurse,orange,noun
@@ -139,7 +139,7 @@ hangul,romanji,english,severity,type
 덥다,tOp ta,hot,orange,adjective
 춥다,cchup ta,cold,orange,adjective
 좋다,chot ta,good,orange,adjective
-나쁘다,na bee ta,bad,red,adjective
+나쁘다,na bee ta,bad,orange,adjective
 조용하다,cho yong ha ta,quiet,orange,adjective
 시끄럽다,shi gee rOp ta,noisy,orange,adjective
 영어,yOng O,english,orange,noun
@@ -157,14 +157,14 @@ hangul,romanji,english,severity,type
 복잡하다,pok chap ha ta,crowded,orange,adjective
 아름답다,a reem tap ta,beautiful,orange,adjective
 예쁘다,yO bee ta,pretty,orange,adjective
-바쁘다,pa bee ta,busy,red,adjective
+바쁘다,pa bee ta,busy,orange,adjective
 한가하다,han ka ha ta,free,orange,adjective
 더럽다,tO rOp ta,dirty,orange,adjective
 내리다,nae ri ta,to get off,red,verb
 깨끗하다,gae geet ha ta,clean,orange,adjective
 걷다,kOt ta,to walk,red,verb
 받다,pat ta,to receive*,red,verb
-친절하다,cchin chOl ha ta,kind,orange,adjective
+친절하다,cchin chOl ha ta,kind,red,adjective
 재미있다,chae mi it ta,interesting,orange,adjective
 재미없다,chae mi op ta,boring,orange,adjective
 경치,kyOng cchi,scenery,orange,noun
@@ -340,15 +340,15 @@ hangul,romanji,english,severity,type
 어제,O che,yesterday,orange,time
 그제,kee che,day before yesterday,red,time
 주말,chu mal,weekend,orange,clock
-지난,chi nan,last (time/ week),red,clock
-이번,i pOn,this (time/ week),red,clock
-다음,ta eem,next (time/ week),red,clock
+지난(달.주),chi nan,last (time/ week),red,clock
+이번(달.주),i pOn,this (time/ week),red,clock
+다음(달.주),ta eem,next (time/ week),red,clock
 다다음,ta eem,next next (time/ week),green,clock
 올해,ol hae,this year,green,clock
 금년,keem nyOn,this year,red,clock
 작년,chak nyOn,last year,red,clock
 내년,nae nyOn,next year,red,clock
-주중,chu chuong,weekday,red,clock
+주중,chu chung,weekday,red,clock
 평일,pyOng il,weekday,green,clock
 시간,shi kan,time,red,clock
 있다,it ta,to be,orange,verb
@@ -358,7 +358,7 @@ hangul,romanji,english,severity,type
 시작다,shi chak ta,start,red,adjective
 시작하다,shi chak ha ta,to start,red,verb
 약속,yak sok,appointment (promise),red,noun
-지키다,chi kki ta,to keep,red,noun
+지키다,chi kki ta,to keep,red,verb
 끝나다,geet na ta,end,red,adjective
 끝나하다,geet na ha ta,to end,red,verb
 일어나다,il O na ta,to get up,red,verb
@@ -395,7 +395,7 @@ hangul,romanji,english,severity,type
 비싸다,pi sza ta,expensive,orange,adjective
 싸다,sza ta,cheap,orange,adjective
 짧다,jalp ta,short,red,adjective
-빠르다,ba ree ta,to be fast,red,adjective
+빠르다,ba ree ta,to be fast,orange,adjective
 빨리,ba ri,fast,red,adverb
 청소하다,cchOng so ha ta,to clean,red,verb
 너무,nO mu,too (negative),red,adverb
@@ -451,7 +451,7 @@ hangul,romanji,english,severity,type
 기구,ki ku,machine,red,noun
 쯤,jeem,around,red,particle
 모두,mo tu,every (all),red,particle
-부모,pu mo,parents,red,family
+부모님,pu mo,parents,red,family
 되다,twe ta,to become,red,verb
 생물학,saeng mul hak,biology,green,noun
 고등,ko teeng,high (school),green,noun
@@ -477,7 +477,7 @@ hangul,romanji,english,severity,type
 슬리퍼,seel ri pO,slippers,red,noun (clothes)
 얼마,Ol ma,how much,red,particle
 얼마나,Ol ma na,how long,red,particle
-그래요,kee rae yo,really,red,particle
+그래요,kee rae yo,really?,red,particle
 더,tO,more,red,adverb
 똑같이,dOk kat i,same,green,adverb
 장미,chang mi,rose,red,noun
@@ -555,7 +555,7 @@ _걸리다,kOl ri ta,to take _ amount of time,red,verb
 출발하다,cchul pal ha ta,to depart,red,verb
 (날)마다,ma ta,every (time, day),red,time
 다르다,ta ree ta,different,red,adjective
-서,chO,hey,red,particle
+저,chO,hey,red,particle
 실례합니다(지만),sil re hamida (chi man),excuse me,red,particle
 약국,yak kuk,pharmacy,orange,noun (place)
 약,yak,medicine,orange,noun

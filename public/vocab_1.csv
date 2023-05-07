@@ -60,7 +60,7 @@ hangul,romanji,english,severity,type
 체육관,cche yuk kwoan,gym,orange,noun (place)
 편의점,ppyo ni chOm*,convenience store,orange,noun (place)
 학교,hak kyo,school,orange,noun (place)
-꽃,kot,flower,orange,noun
+꽃,got,flower,orange,noun
 외교관,uwe kyo kwoan,diplomat,green,noun
 친구,cchin ku,friend,orange,noun
 날씨,nal szhi,weather,orange,noun
@@ -494,7 +494,7 @@ hangul,romanji,english,severity,type
 화장품,howa chang pum,cosmetics,red,noun
 꽃다발,kot ta pal,bouqet,red,noun
 액세서리,aek se sO ri,accessory,red,noun
-인사(하다)(드리다),in sa ha ta,to say hello,red,noun
+인사(하다)(드리다),in sa ha ta,to say hello,red,verb
 연락(하다)(드리다),yOn rak,to notify,red,verb
 이따가,i da ka,later,red,particle
 선물하다,sOn mul ha ta,to gift,red,verb

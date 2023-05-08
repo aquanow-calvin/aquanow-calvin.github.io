@@ -146,7 +146,7 @@ hangul,romanji,english,severity,type
 극장,keek chang,theater,red,noun (place)
 싸우다,sza u ta,to fight,green,verb
 팝콘,ppap kon,popcorn,green,noun
-춤을 추다,chum eel cchu ta,to dance,green,verb
+춤을 추다,chum eel cchu ta,to dance,red,verb
 바나나,pe na na,banana,green,noun
 반,pan,class,green,noun
 게임,ke im,game,orange,noun
@@ -599,3 +599,4 @@ _걸리다,kOl ri ta,to take _ amount of time,red,verb
 단풍,tan pung,maple,red,noun
 해수육장,hae su yuk chang,swimming area,red,noun (place)
 치다,cchi ta,to hit,red,verb
+느리다,nee ri ta,to be slow,red,adjective

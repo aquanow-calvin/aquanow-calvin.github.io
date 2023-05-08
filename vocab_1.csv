@@ -103,7 +103,7 @@ hangul,romanji,english,severity,type
 강당,kang tang,auditorium,green,noun (place)
 교과서,kyo kOwa so,textbook,orange,noun
 고향,ko hyang,hometown,orange,noun (place)
-싶다,shipp ta,to want,orange,verb
+싶다,shipp ta,to want,red,adjective
 산,san,mountain,orange,noun (place)
 강,kang,river,orange,noun (place)
 호수,ho su,lake,orange,noun (place)
@@ -143,7 +143,7 @@ hangul,romanji,english,severity,type
 조용하다,cho yong ha ta,quiet,orange,adjective
 시끄럽다,shi gee rOp ta,noisy,orange,adjective
 영어,yOng O,english,orange,noun
-극장,keek chang,theater,green,noun (place)
+극장,keek chang,theater,red,noun (place)
 싸우다,sza u ta,to fight,green,verb
 팝콘,ppap kon,popcorn,green,noun
 춤을 추다,chum eel cchu ta,to dance,green,verb

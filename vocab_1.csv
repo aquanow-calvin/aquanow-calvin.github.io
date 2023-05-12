@@ -68,7 +68,7 @@ hangul,romanji,english,severity,type
 보다,po ta,to watch,orange,verb
 듣다,teet ta,to listen,orange,verb
 읽다,irk ta,to read,orange,verb
-쓰다,szee ta,to write,orange,verb
+쓰다,szee ta,to write (to use. umbrella. to wear glasses hat),red,verb
 사다,sa ta,to buy,orange,verb
 입다,ip ta,to wear,orange,verb
 먹다,mOk ta,to eat,orange,verb
@@ -608,5 +608,16 @@ _걸리다,kOl ri ta,to take _ amount of time,red,verb
 또,do,and,red,particle
 호텔,ho ttel,hotel,red,noun (place)
 콘도,kkon to,condo,red,noun (place)
-펜션,ppen syon,pension,red,noun (place)
+펜션,ppen syon,pension hotel (motel),red,noun (place)
 게스트하우스,ke see tee ha u see,guesthouse,noun (place)
+떠나다,do na ta,to leave,red,verb
+모자,mo cha,hat,red,noun (clothes)
+다,ta,all,red,adverb
+싸다,sza ta,to pack,red,verb
+선글래스,sOn keel rae see,sunglasses,red,noun (clothes)
+여권,yo kuwon,passport,red,noun
+양말,yang mal,socks,red,noun (clothes)
+신다,shin ta,to wear (socks. shoes),red,verb
+충전기,cchung chOn ki,charger,red,noun
+들다,teel ta,to hold (bag),red,verb
+메다,me ta,to carry (backpack),red,verb
